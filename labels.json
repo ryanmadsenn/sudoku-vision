@@ -2,7 +2,7 @@
   {
     "img_num": 0,
     "image_name": "IMG_0.png",
-    "image_path": "./optimized_images/IMG_0.png",
+    "image_path": "./content/images/IMG_0.png",
     "corner_coordinates": [
       92.57641921397381, 261.13537117903934, 820.0873362445416,
       275.9825327510917, 806.113537117904, 1043.6681222707425,
@@ -12,7 +12,7 @@
   {
     "img_num": 1,
     "image_name": "IMG_1.png",
-    "image_path": "./optimized_images/IMG_1.png",
+    "image_path": "./content/images/IMG_1.png",
     "corner_coordinates": [
       73.36244541484716, 275.9825327510917, 769.4323144104803,
       295.1965065502184, 766.8122270742358, 951.0917030567686,
@@ -22,7 +22,7 @@
   {
     "img_num": 2,
     "image_name": "IMG_2.png",
-    "image_path": "./optimized_images/IMG_2.png",
+    "image_path": "./content/images/IMG_2.png",
     "corner_coordinates": [
       77.72925764192141, 204.36681222707423, 803.4934497816595,
       217.46724890829697, 801.7467248908297, 953.7117903930132,
@@ -32,7 +32,7 @@
   {
     "img_num": 3,
     "image_name": "IMG_3.png",
-    "image_path": "./optimized_images/IMG_3.png",
+    "image_path": "./content/images/IMG_3.png",
     "corner_coordinates": [
       75.98253275109171, 243.66812227074237, 824.4541484716158,
       258.51528384279476, 803.4934497816595, 993.8864628820961,
@@ -42,7 +42,7 @@
   {
     "img_num": 4,
     "image_name": "IMG_4.png",
-    "image_path": "./optimized_images/IMG_4.png",
+    "image_path": "./content/images/IMG_4.png",
     "corner_coordinates": [
       175.54585152838428, 386.0262008733625, 771.1790393013101,
       366.8122270742358, 796.5065502183406, 993.0131004366813,
@@ -52,7 +52,7 @@
   {
     "img_num": 5,
     "image_name": "IMG_5.png",
-    "image_path": "./optimized_images/IMG_5.png",
+    "image_path": "./content/images/IMG_5.png",
     "corner_coordinates": [
       174.67248908296943, 407.8602620087336, 716.1572052401747,
       393.0131004366812, 740.6113537117905, 956.3318777292577,
@@ -62,7 +62,7 @@
   {
     "img_num": 6,
     "image_name": "IMG_6.png",
-    "image_path": "./optimized_images/IMG_6.png",
+    "image_path": "./content/images/IMG_6.png",
     "corner_coordinates": [
       159.82532751091705, 408.73362445414847, 798.2532751091703,
       400.87336244541484, 828.82096069869, 1072.4890829694323,
@@ -72,7 +72,7 @@
   {
     "img_num": 7,
     "image_name": "IMG_7.png",
-    "image_path": "./optimized_images/IMG_7.png",
+    "image_path": "./content/images/IMG_7.png",
     "corner_coordinates": [
       137.99126637554585, 375.5458515283843, 765.0655021834061,
       376.4192139737991, 782.5327510917031, 1002.6200873362446,
@@ -82,7 +82,7 @@
   {
     "img_num": 8,
     "image_name": "IMG_8.png",
-    "image_path": "./optimized_images/IMG_8.png",
+    "image_path": "./content/images/IMG_8.png",
     "corner_coordinates": [
       103.05676855895197, 341.48471615720524, 736.2445414847161,
       320.52401746724894, 754.585152838428, 994.759825327511,
@@ -92,7 +92,7 @@
   {
     "img_num": 9,
     "image_name": "IMG_9.png",
-    "image_path": "./optimized_images/IMG_9.png",
+    "image_path": "./content/images/IMG_9.png",
     "corner_coordinates": [
       83.84279475982532, 330.13100436681225, 689.0829694323145,
       253.27510917030568, 743.231441048035, 1007.8602620087337,
@@ -102,7 +102,7 @@
   {
     "img_num": 10,
     "image_name": "IMG_10.png",
-    "image_path": "./optimized_images/IMG_10.png",
+    "image_path": "./content/images/IMG_10.png",
     "corner_coordinates": [
       134.49781659388645, 261.13537117903934, 822.7074235807861,
       283.8427947598253, 810.4803493449782, 964.1921397379913,
@@ -112,7 +112,7 @@
   {
     "img_num": 11,
     "image_name": "IMG_11.png",
-    "image_path": "./optimized_images/IMG_11.png",
+    "image_path": "./content/images/IMG_11.png",
     "corner_coordinates": [
       131.87772925764193, 296.94323144104806, 774.6724890829695,
       319.6506550218341, 782.5327510917031, 951.9650655021834,
@@ -122,7 +122,7 @@
   {
     "img_num": 12,
     "image_name": "IMG_12.png",
-    "image_path": "./optimized_images/IMG_12.png",
+    "image_path": "./content/images/IMG_12.png",
     "corner_coordinates": [
       105.67685589519651, 350.2183406113537, 745.8515283842795,
       289.0829694323144, 795.6331877729258, 1079.4759825327512,
@@ -132,7 +132,7 @@
   {
     "img_num": 13,
     "image_name": "IMG_13.png",
-    "image_path": "./optimized_images/IMG_13.png",
+    "image_path": "./content/images/IMG_13.png",
     "corner_coordinates": [
       133.6244541484716, 370.30567685589523, 783.4061135371179,
       358.9519650655022, 794.759825327511, 1089.0829694323145,
@@ -142,7 +142,7 @@
   {
     "img_num": 14,
     "image_name": "IMG_14.png",
-    "image_path": "./optimized_images/IMG_14.png",
+    "image_path": "./content/images/IMG_14.png",
     "corner_coordinates": [
       120.52401746724891, 383.4061135371179, 751.0917030567686,
       380.7860262008734, 762.4454148471616, 1009.6069868995634,
@@ -152,7 +152,7 @@
   {
     "img_num": 15,
     "image_name": "IMG_15.png",
-    "image_path": "./optimized_images/IMG_15.png",
+    "image_path": "./content/images/IMG_15.png",
     "corner_coordinates": [
       116.15720524017468, 382.53275109170306, 744.9781659388647,
       337.11790393013104, 788.6462882096071, 1041.9213973799126,
@@ -162,7 +162,7 @@
   {
     "img_num": 16,
     "image_name": "IMG_16.png",
-    "image_path": "./optimized_images/IMG_16.png",
+    "image_path": "./content/images/IMG_16.png",
     "corner_coordinates": [
       176.41921397379915, 408.73362445414847, 739.7379912663756,
       390.3930131004367, 761.5720524017468, 996.5065502183406,
@@ -172,7 +172,7 @@
   {
     "img_num": 17,
     "image_name": "IMG_17.png",
-    "image_path": "./optimized_images/IMG_17.png",
+    "image_path": "./content/images/IMG_17.png",
     "corner_coordinates": [
       151.09170305676855, 400.0, 801.7467248908297, 385.15283842794764,
       838.4279475982534, 1100.4366812227074, 133.6244541484716,
@@ -182,7 +182,7 @@
   {
     "img_num": 18,
     "image_name": "IMG_18.png",
-    "image_path": "./optimized_images/IMG_18.png",
+    "image_path": "./content/images/IMG_18.png",
     "corner_coordinates": [
       106.55021834061135, 220.0873362445415, 818.3406113537118,
       174.67248908296943, 846.2882096069869, 881.2227074235808,
@@ -192,7 +192,7 @@
   {
     "img_num": 19,
     "image_name": "IMG_19.png",
-    "image_path": "./optimized_images/IMG_19.png",
+    "image_path": "./content/images/IMG_19.png",
     "corner_coordinates": [
       109.1703056768559, 227.94759825327512, 801.7467248908297,
       251.528384279476, 825.3275109170306, 937.1179039301311,
@@ -202,7 +202,7 @@
   {
     "img_num": 20,
     "image_name": "IMG_20.png",
-    "image_path": "./optimized_images/IMG_20.png",
+    "image_path": "./content/images/IMG_20.png",
     "corner_coordinates": [
       102.18340611353712, 236.6812227074236, 774.6724890829695,
       256.7685589519651, 821.8340611353713, 930.1310043668122,
@@ -212,7 +212,7 @@
   {
     "img_num": 21,
     "image_name": "IMG_21.png",
-    "image_path": "./optimized_images/IMG_21.png",
+    "image_path": "./content/images/IMG_21.png",
     "corner_coordinates": [
       115.28384279475983, 274.235807860262, 806.113537117904,
       260.26200873362444, 815.7205240174673, 980.7860262008734,
@@ -222,7 +222,7 @@
   {
     "img_num": 22,
     "image_name": "IMG_22.png",
-    "image_path": "./optimized_images/IMG_22.png",
+    "image_path": "./content/images/IMG_22.png",
     "corner_coordinates": [
       133.6244541484716, 297.8165938864629, 794.759825327511,
       331.87772925764193, 796.5065502183406, 994.759825327511,
@@ -232,7 +232,7 @@
   {
     "img_num": 23,
     "image_name": "IMG_23.png",
-    "image_path": "./optimized_images/IMG_23.png",
+    "image_path": "./content/images/IMG_23.png",
     "corner_coordinates": [
       49.78165938864629, 275.10917030567686, 770.3056768558953,
       246.2882096069869, 789.5196506550219, 992.1397379912664,
@@ -242,7 +242,7 @@
   {
     "img_num": 24,
     "image_name": "IMG_24.png",
-    "image_path": "./optimized_images/IMG_24.png",
+    "image_path": "./content/images/IMG_24.png",
     "corner_coordinates": [
       103.05676855895197, 278.6026200873363, 804.3668122270743,
       296.94323144104806, 838.4279475982534, 1005.2401746724892,
@@ -252,7 +252,7 @@
   {
     "img_num": 25,
     "image_name": "IMG_25.png",
-    "image_path": "./optimized_images/IMG_25.png",
+    "image_path": "./content/images/IMG_25.png",
     "corner_coordinates": [
       68.12227074235808, 234.9344978165939, 811.353711790393,
       250.65502183406116, 827.0742358078603, 974.6724890829695, 62.882096069869,
@@ -262,7 +262,7 @@
   {
     "img_num": 26,
     "image_name": "IMG_26.png",
-    "image_path": "./optimized_images/IMG_26.png",
+    "image_path": "./content/images/IMG_26.png",
     "corner_coordinates": [
       63.75545851528385, 268.12227074235807, 793.8864628820961,
       238.4279475982533, 806.9868995633188, 981.6593886462882,
@@ -272,7 +272,7 @@
   {
     "img_num": 27,
     "image_name": "IMG_27.png",
-    "image_path": "./optimized_images/IMG_27.png",
+    "image_path": "./content/images/IMG_27.png",
     "corner_coordinates": [
       138.86462882096072, 434.06113537117903, 694.3231441048035,
       427.94759825327515, 704.8034934497817, 991.2663755458516,
@@ -282,7 +282,7 @@
   {
     "img_num": 28,
     "image_name": "IMG_28.png",
-    "image_path": "./optimized_images/IMG_28.png",
+    "image_path": "./content/images/IMG_28.png",
     "corner_coordinates": [
       196.5065502183406, 350.2183406113537, 721.3973799126638,
       336.2445414847162, 754.585152838428, 903.9301310043669,
@@ -292,7 +292,7 @@
   {
     "img_num": 29,
     "image_name": "IMG_29.png",
-    "image_path": "./optimized_images/IMG_29.png",
+    "image_path": "./content/images/IMG_29.png",
     "corner_coordinates": [
       157.2052401746725, 375.5458515283843, 798.2532751091703,
       329.2576419213974, 844.5414847161572, 1038.4279475982532,
@@ -302,7 +302,7 @@
   {
     "img_num": 30,
     "image_name": "IMG_30.png",
-    "image_path": "./optimized_images/IMG_30.png",
+    "image_path": "./content/images/IMG_30.png",
     "corner_coordinates": [
       151.09170305676855, 364.1921397379913, 767.6855895196506,
       370.30567685589523, 772.9257641921398, 977.292576419214,
@@ -312,7 +312,7 @@
   {
     "img_num": 31,
     "image_name": "IMG_31.png",
-    "image_path": "./optimized_images/IMG_31.png",
+    "image_path": "./content/images/IMG_31.png",
     "corner_coordinates": [
       99.56331877729258, 323.14410480349346, 765.0655021834061,
       265.50218340611355, 808.7336244541485, 1040.174672489083,
@@ -322,7 +322,7 @@
   {
     "img_num": 32,
     "image_name": "IMG_32.png",
-    "image_path": "./optimized_images/IMG_32.png",
+    "image_path": "./content/images/IMG_32.png",
     "corner_coordinates": [
       74.23580786026201, 133.6244541484716, 846.2882096069869,
       176.41921397379915, 822.7074235807861, 930.1310043668122,
@@ -332,7 +332,7 @@
   {
     "img_num": 33,
     "image_name": "IMG_33.png",
-    "image_path": "./optimized_images/IMG_33.png",
+    "image_path": "./content/images/IMG_33.png",
     "corner_coordinates": [
       175.54585152838428, 331.0043668122271, 805.2401746724892,
       371.17903930131007, 781.6593886462882, 972.9257641921398,
@@ -342,7 +342,7 @@
   {
     "img_num": 34,
     "image_name": "IMG_34.png",
-    "image_path": "./optimized_images/IMG_34.png",
+    "image_path": "./content/images/IMG_34.png",
     "corner_coordinates": [
       137.99126637554585, 189.51965065502185, 808.7336244541485,
       170.3056768558952, 827.9475982532751, 845.4148471615721,
@@ -352,7 +352,7 @@
   {
     "img_num": 35,
     "image_name": "IMG_35.png",
-    "image_path": "./optimized_images/IMG_35.png",
+    "image_path": "./content/images/IMG_35.png",
     "corner_coordinates": [
       83.84279475982532, 337.11790393013104, 739.7379912663756,
       317.0305676855895, 757.2052401746726, 989.5196506550219,
@@ -362,7 +362,7 @@
   {
     "img_num": 36,
     "image_name": "IMG_36.png",
-    "image_path": "./optimized_images/IMG_36.png",
+    "image_path": "./content/images/IMG_36.png",
     "corner_coordinates": [
       114.41048034934498, 330.13100436681225, 732.7510917030568,
       245.41484716157206, 783.4061135371179, 1027.9475982532751,
@@ -372,7 +372,7 @@
   {
     "img_num": 37,
     "image_name": "IMG_37.png",
-    "image_path": "./optimized_images/IMG_37.png",
+    "image_path": "./content/images/IMG_37.png",
     "corner_coordinates": [
       133.6244541484716, 422.70742358078604, 708.2969432314411,
       427.0742358078603, 729.2576419213974, 1002.6200873362446,
@@ -382,7 +382,7 @@
   {
     "img_num": 38,
     "image_name": "IMG_38.png",
-    "image_path": "./optimized_images/IMG_38.png",
+    "image_path": "./content/images/IMG_38.png",
     "corner_coordinates": [
       132.75109170305677, 381.6593886462882, 782.5327510917031,
       366.8122270742358, 814.8471615720524, 1080.349344978166,
@@ -392,7 +392,7 @@
   {
     "img_num": 39,
     "image_name": "IMG_39.png",
-    "image_path": "./optimized_images/IMG_39.png",
+    "image_path": "./content/images/IMG_39.png",
     "corner_coordinates": [
       184.27947598253277, 498.68995633187774, 663.7554585152839,
       477.72925764192144, 691.703056768559, 997.3799126637555,
@@ -402,7 +402,7 @@
   {
     "img_num": 40,
     "image_name": "IMG_40.png",
-    "image_path": "./optimized_images/IMG_40.png",
+    "image_path": "./content/images/IMG_40.png",
     "corner_coordinates": [
       149.34497816593887, 400.87336244541484, 718.7772925764192,
       386.0262008733625, 731.8777292576419, 965.0655021834061,
@@ -412,7 +412,7 @@
   {
     "img_num": 41,
     "image_name": "IMG_41.png",
-    "image_path": "./optimized_images/IMG_41.png",
+    "image_path": "./content/images/IMG_41.png",
     "corner_coordinates": [
       90.82969432314411, 270.74235807860265, 826.2008733624455,
       280.34934497816596, 803.4934497816595, 972.9257641921398,
@@ -422,7 +422,7 @@
   {
     "img_num": 42,
     "image_name": "IMG_42.png",
-    "image_path": "./optimized_images/IMG_42.png",
+    "image_path": "./content/images/IMG_42.png",
     "corner_coordinates": [
       47.16157205240175, 200.0, 833.1877729257642, 190.3930131004367,
       835.8078602620087, 991.2663755458516, 48.90829694323144, 979.9126637554585
@@ -431,7 +431,7 @@
   {
     "img_num": 43,
     "image_name": "IMG_43.png",
-    "image_path": "./optimized_images/IMG_43.png",
+    "image_path": "./content/images/IMG_43.png",
     "corner_coordinates": [
       91.70305676855895, 232.31441048034935, 807.8602620087337,
       270.74235807860265, 787.7729257641922, 957.2052401746726,
@@ -441,7 +441,7 @@
   {
     "img_num": 44,
     "image_name": "IMG_44.png",
-    "image_path": "./optimized_images/IMG_44.png",
+    "image_path": "./content/images/IMG_44.png",
     "corner_coordinates": [
       48.03493449781659, 212.22707423580786, 772.9257641921398,
       178.16593886462883, 779.9126637554585, 967.6855895196506,
@@ -451,7 +451,7 @@
   {
     "img_num": 45,
     "image_name": "IMG_45.png",
-    "image_path": "./optimized_images/IMG_45.png",
+    "image_path": "./content/images/IMG_45.png",
     "corner_coordinates": [
       64.62882096069869, 188.646288209607, 834.061135371179, 144.1048034934498,
       851.528384279476, 937.9912663755459, 74.23580786026201, 949.3449781659389
@@ -460,7 +460,7 @@
   {
     "img_num": 46,
     "image_name": "IMG_46.png",
-    "image_path": "./optimized_images/IMG_46.png",
+    "image_path": "./content/images/IMG_46.png",
     "corner_coordinates": [
       91.70305676855895, 246.2882096069869, 812.2270742358079,
       214.8471615720524, 826.2008733624455, 975.5458515283843,
@@ -470,7 +470,7 @@
   {
     "img_num": 47,
     "image_name": "IMG_47.png",
-    "image_path": "./optimized_images/IMG_47.png",
+    "image_path": "./content/images/IMG_47.png",
     "corner_coordinates": [
       106.55021834061135, 225.32751091703057, 825.3275109170306,
       237.55458515283843, 816.5938864628821, 929.2576419213974,
@@ -480,7 +480,7 @@
   {
     "img_num": 48,
     "image_name": "IMG_48.png",
-    "image_path": "./optimized_images/IMG_48.png",
+    "image_path": "./content/images/IMG_48.png",
     "corner_coordinates": [
       126.63755458515284, 310.04366812227073, 768.5589519650655,
       332.7510917030568, 798.2532751091703, 970.3056768558953,
@@ -490,7 +490,7 @@
   {
     "img_num": 49,
     "image_name": "IMG_49.png",
-    "image_path": "./optimized_images/IMG_49.png",
+    "image_path": "./content/images/IMG_49.png",
     "corner_coordinates": [
       117.03056768558953, 207.86026200873363, 795.6331877729258,
       186.8995633187773, 805.2401746724892, 914.410480349345,
@@ -500,7 +500,7 @@
   {
     "img_num": 50,
     "image_name": "IMG_50.png",
-    "image_path": "./optimized_images/IMG_50.png",
+    "image_path": "./content/images/IMG_50.png",
     "corner_coordinates": [
       106.55021834061135, 189.51965065502185, 821.8340611353713,
       211.35371179039302, 842.7947598253276, 910.0436681222708,
@@ -510,7 +510,7 @@
   {
     "img_num": 51,
     "image_name": "IMG_51.png",
-    "image_path": "./optimized_images/IMG_51.png",
+    "image_path": "./content/images/IMG_51.png",
     "corner_coordinates": [
       172.0524017467249, 381.6593886462882, 734.4978165938865,
       384.27947598253274, 737.1179039301311, 958.9519650655022,
@@ -520,7 +520,7 @@
   {
     "img_num": 52,
     "image_name": "IMG_52.png",
-    "image_path": "./optimized_images/IMG_52.png",
+    "image_path": "./content/images/IMG_52.png",
     "corner_coordinates": [
       128.38427947598254, 349.34497816593887, 765.938864628821,
       350.2183406113537, 790.3930131004367, 1006.113537117904,
@@ -530,7 +530,7 @@
   {
     "img_num": 53,
     "image_name": "IMG_53.png",
-    "image_path": "./optimized_images/IMG_53.png",
+    "image_path": "./content/images/IMG_53.png",
     "corner_coordinates": [
       153.7117903930131, 341.48471615720524, 771.1790393013101,
       337.9912663755459, 798.2532751091703, 956.3318777292577,
@@ -540,7 +540,7 @@
   {
     "img_num": 54,
     "image_name": "IMG_54.png",
-    "image_path": "./optimized_images/IMG_54.png",
+    "image_path": "./content/images/IMG_54.png",
     "corner_coordinates": [
       84.71615720524018, 358.07860262008734, 708.2969432314411,
       296.0698689956332, 751.9650655021834, 1006.9868995633188,
@@ -550,7 +550,7 @@
   {
     "img_num": 55,
     "image_name": "IMG_55.png",
-    "image_path": "./optimized_images/IMG_55.png",
+    "image_path": "./content/images/IMG_55.png",
     "corner_coordinates": [
       59.38864628820961, 186.02620087336246, 828.82096069869, 233.1877729257642,
       827.9475982532751, 975.5458515283843, 45.414847161572055,
@@ -560,7 +560,7 @@
   {
     "img_num": 56,
     "image_name": "IMG_56.png",
-    "image_path": "./optimized_images/IMG_56.png",
+    "image_path": "./content/images/IMG_56.png",
     "corner_coordinates": [
       107.4235807860262, 228.82096069868996, 787.7729257641922,
       230.56768558951967, 850.6550218340611, 929.2576419213974,
@@ -570,7 +570,7 @@
   {
     "img_num": 57,
     "image_name": "IMG_57.png",
-    "image_path": "./optimized_images/IMG_57.png",
+    "image_path": "./content/images/IMG_57.png",
     "corner_coordinates": [
       123.14410480349345, 255.0218340611354, 777.292576419214,
       289.0829694323144, 781.6593886462882, 914.410480349345, 122.2707423580786,
@@ -580,7 +580,7 @@
   {
     "img_num": 58,
     "image_name": "IMG_58.png",
-    "image_path": "./optimized_images/IMG_58.png",
+    "image_path": "./content/images/IMG_58.png",
     "corner_coordinates": [
       55.02183406113537, 117.90393013100437, 843.6681222707424,
       125.764192139738, 837.5545851528385, 910.0436681222708,
@@ -590,7 +590,7 @@
   {
     "img_num": 59,
     "image_name": "IMG_59.png",
-    "image_path": "./optimized_images/IMG_59.png",
+    "image_path": "./content/images/IMG_59.png",
     "corner_coordinates": [
       68.99563318777292, 193.01310043668124, 830.5676855895197,
       226.20087336244544, 845.4148471615721, 963.3187772925764,
@@ -600,7 +600,7 @@
   {
     "img_num": 60,
     "image_name": "IMG_60.png",
-    "image_path": "./optimized_images/IMG_60.png",
+    "image_path": "./content/images/IMG_60.png",
     "corner_coordinates": [
       90.82969432314411, 328.38427947598257, 790.3930131004367,
       313.53711790393015, 816.5938864628821, 1095.1965065502184,
@@ -610,7 +610,7 @@
   {
     "img_num": 61,
     "image_name": "IMG_61.png",
-    "image_path": "./optimized_images/IMG_61.png",
+    "image_path": "./content/images/IMG_61.png",
     "corner_coordinates": [
       124.0174672489083, 413.10043668122273, 755.4585152838429,
       379.0393013100437, 793.0131004366813, 1016.5938864628821,
@@ -620,7 +620,7 @@
   {
     "img_num": 62,
     "image_name": "IMG_62.png",
-    "image_path": "./optimized_images/IMG_62.png",
+    "image_path": "./content/images/IMG_62.png",
     "corner_coordinates": [
       155.45851528384281, 415.72052401746726, 718.7772925764192,
       406.9868995633188, 738.8646288209608, 1011.353711790393,
@@ -630,7 +630,7 @@
   {
     "img_num": 63,
     "image_name": "IMG_63.png",
-    "image_path": "./optimized_images/IMG_63.png",
+    "image_path": "./content/images/IMG_63.png",
     "corner_coordinates": [
       110.04366812227074, 371.17903930131007, 754.585152838428,
       372.0524017467249, 758.9519650655022, 1019.2139737991267,
@@ -640,7 +640,7 @@
   {
     "img_num": 64,
     "image_name": "IMG_64.png",
-    "image_path": "./optimized_images/IMG_64.png",
+    "image_path": "./content/images/IMG_64.png",
     "corner_coordinates": [
       93.44978165938865, 168.55895196506552, 855.0218340611355,
       147.5982532751092, 853.2751091703058, 898.6899563318777,
@@ -650,7 +650,7 @@
   {
     "img_num": 65,
     "image_name": "IMG_65.png",
-    "image_path": "./optimized_images/IMG_65.png",
+    "image_path": "./content/images/IMG_65.png",
     "corner_coordinates": [
       59.38864628820961, 182.53275109170306, 828.82096069869, 221.8340611353712,
       824.4541484716158, 986.0262008733625, 23.580786026200876, 1028.82096069869
@@ -659,7 +659,7 @@
   {
     "img_num": 66,
     "image_name": "IMG_66.png",
-    "image_path": "./optimized_images/IMG_66.png",
+    "image_path": "./content/images/IMG_66.png",
     "corner_coordinates": [
       78.60262008733625, 198.25327510917032, 818.3406113537118,
       190.3930131004367, 816.5938864628821, 949.3449781659389,
@@ -669,7 +669,7 @@
   {
     "img_num": 67,
     "image_name": "IMG_67.png",
-    "image_path": "./optimized_images/IMG_67.png",
+    "image_path": "./content/images/IMG_67.png",
     "corner_coordinates": [
       113.53711790393014, 197.37991266375548, 818.3406113537118,
       206.9868995633188, 878.6026200873363, 910.9170305676856,
@@ -679,7 +679,7 @@
   {
     "img_num": 68,
     "image_name": "IMG_68.png",
-    "image_path": "./optimized_images/IMG_68.png",
+    "image_path": "./content/images/IMG_68.png",
     "corner_coordinates": [
       80.34934497816595, 267.2489082969432, 786.8995633187774,
       232.31441048034935, 815.7205240174673, 974.6724890829695,
@@ -689,7 +689,7 @@
   {
     "img_num": 69,
     "image_name": "IMG_69.png",
-    "image_path": "./optimized_images/IMG_69.png",
+    "image_path": "./content/images/IMG_69.png",
     "corner_coordinates": [
       130.13100436681222, 283.8427947598253, 879.4759825327511,
       268.12227074235807, 889.0829694323145, 1025.3275109170306,
@@ -699,7 +699,7 @@
   {
     "img_num": 70,
     "image_name": "IMG_70.png",
-    "image_path": "./optimized_images/IMG_70.png",
+    "image_path": "./content/images/IMG_70.png",
     "corner_coordinates": [
       133.6244541484716, 333.6244541484716, 751.0917030567686, 314.410480349345,
       769.4323144104803, 965.938864628821, 137.99126637554585, 945.8515283842795
@@ -708,7 +708,7 @@
   {
     "img_num": 71,
     "image_name": "IMG_71.png",
-    "image_path": "./optimized_images/IMG_71.png",
+    "image_path": "./content/images/IMG_71.png",
     "corner_coordinates": [
       110.04366812227074, 204.36681222707423, 828.82096069869,
       228.82096069868996, 854.1484716157206, 944.1048034934498,
@@ -718,7 +718,7 @@
   {
     "img_num": 72,
     "image_name": "IMG_72.png",
-    "image_path": "./optimized_images/IMG_72.png",
+    "image_path": "./content/images/IMG_72.png",
     "corner_coordinates": [
       53.275109170305676, 199.12663755458516, 821.8340611353713,
       153.7117903930131, 845.4148471615721, 932.7510917030568,
@@ -728,7 +728,7 @@
   {
     "img_num": 73,
     "image_name": "IMG_73.png",
-    "image_path": "./optimized_images/IMG_73.png",
+    "image_path": "./content/images/IMG_73.png",
     "corner_coordinates": [
       134.49781659388645, 386.8995633187773, 691.703056768559,
       384.27947598253274, 717.0305676855895, 965.0655021834061,
@@ -738,7 +738,7 @@
   {
     "img_num": 74,
     "image_name": "IMG_74.png",
-    "image_path": "./optimized_images/IMG_74.png",
+    "image_path": "./content/images/IMG_74.png",
     "corner_coordinates": [
       163.3187772925764, 406.9868995633188, 756.3318777292577,
       395.6331877729258, 791.2663755458516, 999.1266375545852,
@@ -748,7 +748,7 @@
   {
     "img_num": 75,
     "image_name": "IMG_75.png",
-    "image_path": "./optimized_images/IMG_75.png",
+    "image_path": "./content/images/IMG_75.png",
     "corner_coordinates": [
       130.13100436681222, 322.2707423580786, 798.2532751091703,
       280.34934497816596, 807.8602620087337, 986.8995633187774,
@@ -758,7 +758,7 @@
   {
     "img_num": 76,
     "image_name": "IMG_76.png",
-    "image_path": "./optimized_images/IMG_76.png",
+    "image_path": "./content/images/IMG_76.png",
     "corner_coordinates": [
       126.63755458515284, 282.09606986899564, 786.0262008733624,
       292.5764192139738, 800.8733624454148, 952.8384279475983,
@@ -768,7 +768,7 @@
   {
     "img_num": 77,
     "image_name": "IMG_77.png",
-    "image_path": "./optimized_images/IMG_77.png",
+    "image_path": "./content/images/IMG_77.png",
     "corner_coordinates": [
       37.55458515283843, 246.2882096069869, 832.3144104803494,
       238.4279475982533, 850.6550218340611, 1088.2096069868996,
@@ -778,7 +778,7 @@
   {
     "img_num": 78,
     "image_name": "IMG_78.png",
-    "image_path": "./optimized_images/IMG_78.png",
+    "image_path": "./content/images/IMG_78.png",
     "corner_coordinates": [
       147.5982532751092, 324.89082969432314, 820.9606986899564,
       334.49781659388645, 837.5545851528385, 1028.82096069869,
@@ -788,7 +788,7 @@
   {
     "img_num": 79,
     "image_name": "IMG_79.png",
-    "image_path": "./optimized_images/IMG_79.png",
+    "image_path": "./content/images/IMG_79.png",
     "corner_coordinates": [
       123.14410480349345, 378.16593886462886, 787.7729257641922,
       367.68558951965065, 800.0, 1015.7205240174673, 137.117903930131,
@@ -798,7 +798,7 @@
   {
     "img_num": 80,
     "image_name": "IMG_80.png",
-    "image_path": "./optimized_images/IMG_80.png",
+    "image_path": "./content/images/IMG_80.png",
     "corner_coordinates": [
       62.882096069869, 275.9825327510917, 807.8602620087337, 262.0087336244542,
       807.8602620087337, 994.759825327511, 69.86899563318778, 1046.288209606987
@@ -807,7 +807,7 @@
   {
     "img_num": 81,
     "image_name": "IMG_81.png",
-    "image_path": "./optimized_images/IMG_81.png",
+    "image_path": "./content/images/IMG_81.png",
     "corner_coordinates": [
       132.75109170305677, 344.1048034934498, 788.6462882096071,
       358.07860262008734, 791.2663755458516, 1029.6943231441048,
@@ -817,7 +817,7 @@
   {
     "img_num": 82,
     "image_name": "IMG_82.png",
-    "image_path": "./optimized_images/IMG_82.png",
+    "image_path": "./content/images/IMG_82.png",
     "corner_coordinates": [
       89.08296943231441, 303.93013100436684, 730.1310043668122,
       265.50218340611355, 765.0655021834061, 972.9257641921398,
@@ -827,7 +827,7 @@
   {
     "img_num": 83,
     "image_name": "IMG_83.png",
-    "image_path": "./optimized_images/IMG_83.png",
+    "image_path": "./content/images/IMG_83.png",
     "corner_coordinates": [
       125.764192139738, 400.87336244541484, 736.2445414847161,
       416.5938864628821, 747.5982532751092, 1032.3144104803494,
@@ -837,7 +837,7 @@
   {
     "img_num": 84,
     "image_name": "IMG_84.png",
-    "image_path": "./optimized_images/IMG_84.png",
+    "image_path": "./content/images/IMG_84.png",
     "corner_coordinates": [
       96.06986899563319, 337.11790393013104, 775.5458515283843,
       325.764192139738, 786.8995633187774, 1044.5414847161574,
@@ -847,7 +847,7 @@
   {
     "img_num": 85,
     "image_name": "IMG_85.png",
-    "image_path": "./optimized_images/IMG_85.png",
+    "image_path": "./content/images/IMG_85.png",
     "corner_coordinates": [
       129.25764192139738, 346.72489082969435, 756.3318777292577,
       344.1048034934498, 772.9257641921398, 970.3056768558953,
@@ -857,7 +857,7 @@
   {
     "img_num": 86,
     "image_name": "IMG_86.png",
-    "image_path": "./optimized_images/IMG_86.png",
+    "image_path": "./content/images/IMG_86.png",
     "corner_coordinates": [
       214.8471615720524, 462.0087336244542, 698.6899563318777,
       458.51528384279476, 713.5371179039302, 964.1921397379913,
@@ -867,7 +867,7 @@
   {
     "img_num": 87,
     "image_name": "IMG_87.png",
-    "image_path": "./optimized_images/IMG_87.png",
+    "image_path": "./content/images/IMG_87.png",
     "corner_coordinates": [
       128.38427947598254, 261.13537117903934, 806.9868995633188,
       298.68995633187774, 806.113537117904, 977.292576419214,
@@ -877,7 +877,7 @@
   {
     "img_num": 88,
     "image_name": "IMG_88.png",
-    "image_path": "./optimized_images/IMG_88.png",
+    "image_path": "./content/images/IMG_88.png",
     "corner_coordinates": [
       104.80349344978167, 204.36681222707423, 833.1877729257642,
       214.8471615720524, 827.9475982532751, 944.9781659388647,
@@ -887,7 +887,7 @@
   {
     "img_num": 89,
     "image_name": "IMG_89.png",
-    "image_path": "./optimized_images/IMG_89.png",
+    "image_path": "./content/images/IMG_89.png",
     "corner_coordinates": [
       117.03056768558953, 275.9825327510917, 820.9606986899564,
       296.94323144104806, 772.052401746725, 937.9912663755459,
@@ -897,7 +897,7 @@
   {
     "img_num": 90,
     "image_name": "IMG_90.png",
-    "image_path": "./optimized_images/IMG_90.png",
+    "image_path": "./content/images/IMG_90.png",
     "corner_coordinates": [
       81.22270742358079, 280.34934497816596, 806.113537117904,
       268.9956331877729, 811.353711790393, 1027.9475982532751,
@@ -907,7 +907,7 @@
   {
     "img_num": 91,
     "image_name": "IMG_91.png",
-    "image_path": "./optimized_images/IMG_91.png",
+    "image_path": "./content/images/IMG_91.png",
     "corner_coordinates": [
       124.89082969432314, 318.7772925764192, 795.6331877729258,
       275.9825327510917, 827.9475982532751, 1010.4803493449782,
@@ -917,7 +917,7 @@
   {
     "img_num": 92,
     "image_name": "IMG_92.png",
-    "image_path": "./optimized_images/IMG_92.png",
+    "image_path": "./content/images/IMG_92.png",
     "corner_coordinates": [
       72.48908296943232, 245.41484716157206, 786.0262008733624,
       256.7685589519651, 833.1877729257642, 975.5458515283843,
@@ -927,7 +927,7 @@
   {
     "img_num": 93,
     "image_name": "IMG_93.png",
-    "image_path": "./optimized_images/IMG_93.png",
+    "image_path": "./content/images/IMG_93.png",
     "corner_coordinates": [
       85.58951965065502, 255.0218340611354, 810.4803493449782,
       221.8340611353712, 824.4541484716158, 979.9126637554585,
@@ -937,7 +937,7 @@
   {
     "img_num": 94,
     "image_name": "IMG_94.png",
-    "image_path": "./optimized_images/IMG_94.png",
+    "image_path": "./content/images/IMG_94.png",
     "corner_coordinates": [
       107.4235807860262, 241.92139737991266, 858.5152838427948,
       257.6419213973799, 861.1353711790393, 1001.7467248908297,
@@ -947,7 +947,7 @@
   {
     "img_num": 95,
     "image_name": "IMG_95.png",
-    "image_path": "./optimized_images/IMG_95.png",
+    "image_path": "./content/images/IMG_95.png",
     "corner_coordinates": [
       118.77729257641921, 311.79039301310047, 791.2663755458516,
       298.68995633187774, 808.7336244541485, 1020.0873362445416,
@@ -957,7 +957,7 @@
   {
     "img_num": 96,
     "image_name": "IMG_96.png",
-    "image_path": "./optimized_images/IMG_96.png",
+    "image_path": "./content/images/IMG_96.png",
     "corner_coordinates": [
       104.80349344978167, 262.0087336244542, 815.7205240174673,
       218.3406113537118, 826.2008733624455, 1022.7074235807861,
@@ -967,7 +967,7 @@
   {
     "img_num": 97,
     "image_name": "IMG_97.png",
-    "image_path": "./optimized_images/IMG_97.png",
+    "image_path": "./content/images/IMG_97.png",
     "corner_coordinates": [
       92.57641921397381, 219.21397379912665, 805.2401746724892,
       255.0218340611354, 793.0131004366813, 944.1048034934498,
@@ -977,7 +977,7 @@
   {
     "img_num": 98,
     "image_name": "IMG_98.png",
-    "image_path": "./optimized_images/IMG_98.png",
+    "image_path": "./content/images/IMG_98.png",
     "corner_coordinates": [
       104.80349344978167, 275.9825327510917, 793.8864628820961,
       293.44978165938863, 832.3144104803494, 986.0262008733625,
@@ -987,7 +987,7 @@
   {
     "img_num": 99,
     "image_name": "IMG_99.png",
-    "image_path": "./optimized_images/IMG_99.png",
+    "image_path": "./content/images/IMG_99.png",
     "corner_coordinates": [
       79.47598253275109, 238.4279475982533, 806.113537117904,
       193.01310043668124, 850.6550218340611, 948.471615720524,
@@ -997,7 +997,7 @@
   {
     "img_num": 100,
     "image_name": "IMG_100.png",
-    "image_path": "./optimized_images/IMG_100.png",
+    "image_path": "./content/images/IMG_100.png",
     "corner_coordinates": [
       55.02183406113537, 263.75545851528386, 778.1659388646289,
       221.8340611353712, 793.0131004366813, 1028.82096069869, 59.38864628820961,
@@ -1007,7 +1007,7 @@
   {
     "img_num": 101,
     "image_name": "IMG_101.png",
-    "image_path": "./optimized_images/IMG_101.png",
+    "image_path": "./content/images/IMG_101.png",
     "corner_coordinates": [
       95.19650655021834, 262.0087336244542, 806.9868995633188,
       280.34934497816596, 793.8864628820961, 979.0393013100437,
@@ -1017,7 +1017,7 @@
   {
     "img_num": 102,
     "image_name": "IMG_102.png",
-    "image_path": "./optimized_images/IMG_102.png",
+    "image_path": "./content/images/IMG_102.png",
     "corner_coordinates": [
       50.65502183406114, 202.62008733624455, 813.9737991266376,
       167.68558951965065, 818.3406113537118, 995.6331877729258,
@@ -1027,7 +1027,7 @@
   {
     "img_num": 103,
     "image_name": "IMG_103.png",
-    "image_path": "./optimized_images/IMG_103.png",
+    "image_path": "./content/images/IMG_103.png",
     "corner_coordinates": [
       89.95633187772926, 227.94759825327512, 840.174672489083,
       248.0349344978166, 820.0873362445416, 972.052401746725, 82.09606986899564,
@@ -1037,7 +1037,7 @@
   {
     "img_num": 104,
     "image_name": "IMG_104.png",
-    "image_path": "./optimized_images/IMG_104.png",
+    "image_path": "./content/images/IMG_104.png",
     "corner_coordinates": [
       96.06986899563319, 235.80786026200875, 770.3056768558953,
       214.8471615720524, 776.4192139737992, 937.1179039301311,
@@ -1047,7 +1047,7 @@
   {
     "img_num": 105,
     "image_name": "IMG_105.png",
-    "image_path": "./optimized_images/IMG_105.png",
+    "image_path": "./content/images/IMG_105.png",
     "corner_coordinates": [
       80.34934497816595, 267.2489082969432, 822.7074235807861,
       277.72925764192144, 823.5807860262009, 998.2532751091703,
@@ -1057,7 +1057,7 @@
   {
     "img_num": 106,
     "image_name": "IMG_106.png",
-    "image_path": "./optimized_images/IMG_106.png",
+    "image_path": "./content/images/IMG_106.png",
     "corner_coordinates": [
       86.46288209606988, 205.2401746724891, 822.7074235807861,
       184.27947598253277, 813.9737991266376, 972.9257641921398,
@@ -1067,7 +1067,7 @@
   {
     "img_num": 107,
     "image_name": "IMG_107.png",
-    "image_path": "./optimized_images/IMG_107.png",
+    "image_path": "./content/images/IMG_107.png",
     "corner_coordinates": [
       68.12227074235808, 275.10917030567686, 845.4148471615721,
       239.30131004366814, 845.4148471615721, 1082.9694323144106,
@@ -1077,7 +1077,7 @@
   {
     "img_num": 108,
     "image_name": "IMG_108.png",
-    "image_path": "./optimized_images/IMG_108.png",
+    "image_path": "./content/images/IMG_108.png",
     "corner_coordinates": [
       126.63755458515284, 320.52401746724894, 792.1397379912664,
       329.2576419213974, 789.5196506550219, 995.6331877729258,
@@ -1087,7 +1087,7 @@
   {
     "img_num": 109,
     "image_name": "IMG_109.png",
-    "image_path": "./optimized_images/IMG_109.png",
+    "image_path": "./content/images/IMG_109.png",
     "corner_coordinates": [
       73.36244541484716, 292.5764192139738, 741.4847161572053,
       227.94759825327512, 795.6331877729258, 1071.6157205240174,
@@ -1097,7 +1097,7 @@
   {
     "img_num": 110,
     "image_name": "IMG_110.png",
-    "image_path": "./optimized_images/IMG_110.png",
+    "image_path": "./content/images/IMG_110.png",
     "corner_coordinates": [
       92.57641921397381, 252.40174672489084, 826.2008733624455,
       222.70742358078604, 834.061135371179, 985.1528384279476,
@@ -1107,7 +1107,7 @@
   {
     "img_num": 111,
     "image_name": "IMG_111.png",
-    "image_path": "./optimized_images/IMG_111.png",
+    "image_path": "./content/images/IMG_111.png",
     "corner_coordinates": [
       106.55021834061135, 261.13537117903934, 807.8602620087337,
       277.72925764192144, 852.4017467248908, 982.5327510917031,
@@ -1117,7 +1117,7 @@
   {
     "img_num": 112,
     "image_name": "IMG_112.png",
-    "image_path": "./optimized_images/IMG_112.png",
+    "image_path": "./content/images/IMG_112.png",
     "corner_coordinates": [
       85.58951965065502, 216.5938864628821, 802.6200873362445,
       222.70742358078604, 792.1397379912664, 929.2576419213974,
@@ -1127,7 +1127,7 @@
   {
     "img_num": 113,
     "image_name": "IMG_113.png",
-    "image_path": "./optimized_images/IMG_113.png",
+    "image_path": "./content/images/IMG_113.png",
     "corner_coordinates": [
       45.414847161572055, 262.0087336244542, 835.8078602620087,
       245.41484716157206, 842.7947598253276, 1087.3362445414848,
@@ -1137,7 +1137,7 @@
   {
     "img_num": 114,
     "image_name": "IMG_114.png",
-    "image_path": "./optimized_images/IMG_114.png",
+    "image_path": "./content/images/IMG_114.png",
     "corner_coordinates": [
       124.89082969432314, 309.1703056768559, 744.9781659388647,
       241.04803493449782, 773.7991266375547, 991.2663755458516,
@@ -1147,7 +1147,7 @@
   {
     "img_num": 115,
     "image_name": "IMG_115.png",
-    "image_path": "./optimized_images/IMG_115.png",
+    "image_path": "./content/images/IMG_115.png",
     "corner_coordinates": [
       110.04366812227074, 313.53711790393015, 801.7467248908297,
       326.6375545851528, 790.3930131004367, 1008.7336244541485,
@@ -1157,7 +1157,7 @@
   {
     "img_num": 116,
     "image_name": "IMG_116.png",
-    "image_path": "./optimized_images/IMG_116.png",
+    "image_path": "./content/images/IMG_116.png",
     "corner_coordinates": [
       155.45851528384281, 335.3711790393013, 809.6069868995634,
       301.31004366812226, 823.5807860262009, 996.5065502183406,
@@ -1167,7 +1167,7 @@
   {
     "img_num": 117,
     "image_name": "IMG_117.png",
-    "image_path": "./optimized_images/IMG_117.png",
+    "image_path": "./content/images/IMG_117.png",
     "corner_coordinates": [
       96.06986899563319, 300.4366812227074, 765.938864628821,
       277.72925764192144, 788.6462882096071, 975.5458515283843,
@@ -1177,7 +1177,7 @@
   {
     "img_num": 118,
     "image_name": "IMG_118.png",
-    "image_path": "./optimized_images/IMG_118.png",
+    "image_path": "./content/images/IMG_118.png",
     "corner_coordinates": [
       73.36244541484716, 200.0, 831.4410480349345, 234.06113537117906,
       829.6943231441048, 1002.6200873362446, 52.401746724890835,
@@ -1187,7 +1187,7 @@
   {
     "img_num": 119,
     "image_name": "IMG_119.png",
-    "image_path": "./optimized_images/IMG_119.png",
+    "image_path": "./content/images/IMG_119.png",
     "corner_coordinates": [
       104.80349344978167, 275.10917030567686, 822.7074235807861,
       289.0829694323144, 842.7947598253276, 997.3799126637555,
@@ -1197,7 +1197,7 @@
   {
     "img_num": 120,
     "image_name": "IMG_120.png",
-    "image_path": "./optimized_images/IMG_120.png",
+    "image_path": "./content/images/IMG_120.png",
     "corner_coordinates": [
       81.22270742358079, 290.8296943231441, 810.4803493449782,
       264.6288209606987, 837.5545851528385, 1027.9475982532751,
@@ -1207,7 +1207,7 @@
   {
     "img_num": 121,
     "image_name": "IMG_121.png",
-    "image_path": "./optimized_images/IMG_121.png",
+    "image_path": "./content/images/IMG_121.png",
     "corner_coordinates": [
       112.66375545851528, 352.8384279475983, 751.9650655021834,
       362.4454148471616, 765.938864628821, 994.759825327511, 111.79039301310044,
@@ -1217,7 +1217,7 @@
   {
     "img_num": 122,
     "image_name": "IMG_122.png",
-    "image_path": "./optimized_images/IMG_122.png",
+    "image_path": "./content/images/IMG_122.png",
     "corner_coordinates": [
       58.515283842794766, 258.51528384279476, 841.9213973799127,
       220.0873362445415, 852.4017467248908, 1021.8340611353713,
@@ -1227,7 +1227,7 @@
   {
     "img_num": 123,
     "image_name": "IMG_123.png",
-    "image_path": "./optimized_images/IMG_123.png",
+    "image_path": "./content/images/IMG_123.png",
     "corner_coordinates": [
       99.56331877729258, 250.65502183406116, 836.6812227074237,
       263.75545851528386, 856.7685589519651, 995.6331877729258,
@@ -1237,7 +1237,7 @@
   {
     "img_num": 124,
     "image_name": "IMG_124.png",
-    "image_path": "./optimized_images/IMG_124.png",
+    "image_path": "./content/images/IMG_124.png",
     "corner_coordinates": [
       91.70305676855895, 274.235807860262, 801.7467248908297,
       240.17467248908298, 811.353711790393, 1029.6943231441048,
@@ -1247,7 +1247,7 @@
   {
     "img_num": 125,
     "image_name": "IMG_125.png",
-    "image_path": "./optimized_images/IMG_125.png",
+    "image_path": "./content/images/IMG_125.png",
     "corner_coordinates": [
       106.55021834061135, 274.235807860262, 800.8733624454148,
       289.0829694323144, 792.1397379912664, 954.585152838428,
@@ -1257,7 +1257,7 @@
   {
     "img_num": 126,
     "image_name": "IMG_126.png",
-    "image_path": "./optimized_images/IMG_126.png",
+    "image_path": "./content/images/IMG_126.png",
     "corner_coordinates": [
       136.24454148471617, 274.235807860262, 791.2663755458516,
       294.32314410480353, 824.4541484716158, 953.7117903930132,
@@ -1267,7 +1267,7 @@
   {
     "img_num": 127,
     "image_name": "IMG_127.png",
-    "image_path": "./optimized_images/IMG_127.png",
+    "image_path": "./content/images/IMG_127.png",
     "corner_coordinates": [
       113.53711790393014, 335.3711790393013, 756.3318777292577,
       285.589519650655, 805.2401746724892, 987.7729257641922, 125.764192139738,
@@ -1277,7 +1277,7 @@
   {
     "img_num": 128,
     "image_name": "IMG_128.png",
-    "image_path": "./optimized_images/IMG_128.png",
+    "image_path": "./content/images/IMG_128.png",
     "corner_coordinates": [
       95.19650655021834, 262.882096069869, 823.5807860262009, 288.2096069868996,
       822.7074235807861, 993.8864628820961, 87.33624454148472, 1034.061135371179
@@ -1286,7 +1286,7 @@
   {
     "img_num": 129,
     "image_name": "IMG_129.png",
-    "image_path": "./optimized_images/IMG_129.png",
+    "image_path": "./content/images/IMG_129.png",
     "corner_coordinates": [
       72.48908296943232, 181.65938864628822, 842.7947598253276,
       144.97816593886463, 834.9344978165939, 992.1397379912664,
@@ -1296,7 +1296,7 @@
   {
     "img_num": 130,
     "image_name": "IMG_130.png",
-    "image_path": "./optimized_images/IMG_130.png",
+    "image_path": "./content/images/IMG_130.png",
     "corner_coordinates": [
       110.04366812227074, 289.0829694323144, 790.3930131004367,
       282.9694323144105, 810.4803493449782, 963.3187772925764,
@@ -1306,7 +1306,7 @@
   {
     "img_num": 131,
     "image_name": "IMG_131.png",
-    "image_path": "./optimized_images/IMG_131.png",
+    "image_path": "./content/images/IMG_131.png",
     "corner_coordinates": [
       75.10917030567686, 296.94323144104806, 814.8471615720524,
       298.68995633187774, 817.4672489082969, 1082.0960698689958,
@@ -1316,7 +1316,7 @@
   {
     "img_num": 132,
     "image_name": "IMG_132.png",
-    "image_path": "./optimized_images/IMG_132.png",
+    "image_path": "./content/images/IMG_132.png",
     "corner_coordinates": [
       112.66375545851528, 282.9694323144105, 826.2008733624455,
       299.5633187772926, 808.7336244541485, 979.0393013100437,
@@ -1326,7 +1326,7 @@
   {
     "img_num": 133,
     "image_name": "IMG_133.png",
-    "image_path": "./optimized_images/IMG_133.png",
+    "image_path": "./content/images/IMG_133.png",
     "corner_coordinates": [
       93.44978165938865, 227.07423580786028, 848.0349344978166,
       245.41484716157206, 871.6157205240175, 1010.4803493449782,
@@ -1336,7 +1336,7 @@
   {
     "img_num": 134,
     "image_name": "IMG_134.png",
-    "image_path": "./optimized_images/IMG_134.png",
+    "image_path": "./content/images/IMG_134.png",
     "corner_coordinates": [
       78.60262008733625, 224.45414847161572, 820.9606986899564,
       224.45414847161572, 826.2008733624455, 970.3056768558953,
@@ -1346,7 +1346,7 @@
   {
     "img_num": 135,
     "image_name": "IMG_135.png",
-    "image_path": "./optimized_images/IMG_135.png",
+    "image_path": "./content/images/IMG_135.png",
     "corner_coordinates": [
       130.13100436681222, 293.44978165938863, 827.9475982532751,
       310.04366812227073, 842.7947598253276, 1003.4934497816595,
@@ -1356,7 +1356,7 @@
   {
     "img_num": 136,
     "image_name": "IMG_136.png",
-    "image_path": "./optimized_images/IMG_136.png",
+    "image_path": "./content/images/IMG_136.png",
     "corner_coordinates": [
       116.15720524017468, 233.1877729257642, 861.1353711790393,
       258.51528384279476, 822.7074235807861, 978.1659388646289,
@@ -1366,7 +1366,7 @@
   {
     "img_num": 137,
     "image_name": "IMG_137.png",
-    "image_path": "./optimized_images/IMG_137.png",
+    "image_path": "./content/images/IMG_137.png",
     "corner_coordinates": [
       110.9170305676856, 362.4454148471616, 688.2096069868996, 348.471615720524,
       716.1572052401747, 1069.8689956331878, 80.34934497816595,
@@ -1376,7 +1376,7 @@
   {
     "img_num": 138,
     "image_name": "IMG_138.png",
-    "image_path": "./optimized_images/IMG_138.png",
+    "image_path": "./content/images/IMG_138.png",
     "corner_coordinates": [
       117.90393013100437, 310.04366812227073, 790.3930131004367,
       250.65502183406116, 817.4672489082969, 985.1528384279476,
@@ -1386,7 +1386,7 @@
   {
     "img_num": 139,
     "image_name": "IMG_139.png",
-    "image_path": "./optimized_images/IMG_139.png",
+    "image_path": "./content/images/IMG_139.png",
     "corner_coordinates": [
       88.20960698689957, 253.27510917030568, 821.8340611353713,
       282.9694323144105, 843.6681222707424, 1027.9475982532751,
@@ -1396,7 +1396,7 @@
   {
     "img_num": 140,
     "image_name": "IMG_140.png",
-    "image_path": "./optimized_images/IMG_140.png",
+    "image_path": "./content/images/IMG_140.png",
     "corner_coordinates": [
       114.41048034934498, 244.5414847161572, 824.4541484716158,
       268.12227074235807, 820.0873362445416, 976.4192139737992,
@@ -1406,7 +1406,7 @@
   {
     "img_num": 141,
     "image_name": "IMG_141.png",
-    "image_path": "./optimized_images/IMG_141.png",
+    "image_path": "./content/images/IMG_141.png",
     "corner_coordinates": [
       115.28384279475983, 275.10917030567686, 813.9737991266376,
       288.2096069868996, 789.5196506550219, 1027.0742358078603,
@@ -1416,7 +1416,7 @@
   {
     "img_num": 142,
     "image_name": "IMG_142.png",
-    "image_path": "./optimized_images/IMG_142.png",
+    "image_path": "./content/images/IMG_142.png",
     "corner_coordinates": [
       125.764192139738, 309.1703056768559, 775.5458515283843, 264.6288209606987,
       798.2532751091703, 990.3930131004367, 72.48908296943232, 984.2794759825327
@@ -1425,7 +1425,7 @@
   {
     "img_num": 143,
     "image_name": "IMG_143.png",
-    "image_path": "./optimized_images/IMG_143.png",
+    "image_path": "./content/images/IMG_143.png",
     "corner_coordinates": [
       70.74235807860262, 240.17467248908298, 819.2139737991266,
       255.0218340611354, 834.061135371179, 1014.8471615720524,
@@ -1435,7 +1435,7 @@
   {
     "img_num": 144,
     "image_name": "IMG_144.png",
-    "image_path": "./optimized_images/IMG_144.png",
+    "image_path": "./content/images/IMG_144.png",
     "corner_coordinates": [
       112.66375545851528, 248.90829694323145, 832.3144104803494,
       265.50218340611355, 861.1353711790393, 987.7729257641922,
@@ -1445,7 +1445,7 @@
   {
     "img_num": 145,
     "image_name": "IMG_145.png",
-    "image_path": "./optimized_images/IMG_145.png",
+    "image_path": "./content/images/IMG_145.png",
     "corner_coordinates": [
       111.79039301310044, 299.5633187772926, 793.8864628820961,
       293.44978165938863, 791.2663755458516, 991.2663755458516,
@@ -1455,7 +1455,7 @@
   {
     "img_num": 146,
     "image_name": "IMG_146.png",
-    "image_path": "./optimized_images/IMG_146.png",
+    "image_path": "./content/images/IMG_146.png",
     "corner_coordinates": [
       103.93013100436681, 199.12663755458516, 802.6200873362445,
       254.14847161572052, 837.5545851528385, 965.938864628821,
@@ -1465,7 +1465,7 @@
   {
     "img_num": 147,
     "image_name": "IMG_147.png",
-    "image_path": "./optimized_images/IMG_147.png",
+    "image_path": "./content/images/IMG_147.png",
     "corner_coordinates": [
       88.20960698689957, 232.31441048034935, 817.4672489082969,
       236.6812227074236, 813.1004366812227, 967.6855895196506,
@@ -1475,7 +1475,7 @@
   {
     "img_num": 148,
     "image_name": "IMG_148.png",
-    "image_path": "./optimized_images/IMG_148.png",
+    "image_path": "./content/images/IMG_148.png",
     "corner_coordinates": [
       85.58951965065502, 265.50218340611355, 791.2663755458516,
       282.9694323144105, 796.5065502183406, 972.9257641921398,
@@ -1485,7 +1485,7 @@
   {
     "img_num": 149,
     "image_name": "IMG_149.png",
-    "image_path": "./optimized_images/IMG_149.png",
+    "image_path": "./content/images/IMG_149.png",
     "corner_coordinates": [
       62.882096069869, 297.8165938864629, 751.9650655021834, 276.85589519650654,
       755.4585152838429, 987.7729257641922, 73.36244541484716, 969.4323144104804
@@ -1494,7 +1494,7 @@
   {
     "img_num": 150,
     "image_name": "IMG_150.png",
-    "image_path": "./optimized_images/IMG_150.png",
+    "image_path": "./content/images/IMG_150.png",
     "corner_coordinates": [
       109.1703056768559, 274.235807860262, 834.061135371179, 307.4235807860262,
       808.7336244541485, 1003.4934497816595, 94.3231441048035, 1028.82096069869
@@ -1503,7 +1503,7 @@
   {
     "img_num": 151,
     "image_name": "IMG_151.png",
-    "image_path": "./optimized_images/IMG_151.png",
+    "image_path": "./content/images/IMG_151.png",
     "corner_coordinates": [
       100.43668122270743, 273.3624454148472, 787.7729257641922,
       241.92139737991266, 802.6200873362445, 1003.4934497816595,
@@ -1513,7 +1513,7 @@
   {
     "img_num": 152,
     "image_name": "IMG_152.png",
-    "image_path": "./optimized_images/IMG_152.png",
+    "image_path": "./content/images/IMG_152.png",
     "corner_coordinates": [
       81.22270742358079, 300.4366812227074, 792.1397379912664,
       250.65502183406116, 821.8340611353713, 1037.5545851528384,
@@ -1523,7 +1523,7 @@
   {
     "img_num": 153,
     "image_name": "IMG_153.png",
-    "image_path": "./optimized_images/IMG_153.png",
+    "image_path": "./content/images/IMG_153.png",
     "corner_coordinates": [
       77.72925764192141, 361.57205240174676, 721.3973799126638,
       329.2576419213974, 742.3580786026201, 1029.6943231441048,
@@ -1533,7 +1533,7 @@
   {
     "img_num": 154,
     "image_name": "IMG_154.png",
-    "image_path": "./optimized_images/IMG_154.png",
+    "image_path": "./content/images/IMG_154.png",
     "corner_coordinates": [
       86.46288209606988, 339.73799126637556, 730.1310043668122,
       302.1834061135371, 776.4192139737992, 984.2794759825327,
@@ -1543,7 +1543,7 @@
   {
     "img_num": 155,
     "image_name": "IMG_155.png",
-    "image_path": "./optimized_images/IMG_155.png",
+    "image_path": "./content/images/IMG_155.png",
     "corner_coordinates": [
       120.52401746724891, 193.88646288209608, 842.7947598253276,
       221.8340611353712, 847.1615720524018, 937.9912663755459,
@@ -1553,7 +1553,7 @@
   {
     "img_num": 156,
     "image_name": "IMG_156.png",
-    "image_path": "./optimized_images/IMG_156.png",
+    "image_path": "./content/images/IMG_156.png",
     "corner_coordinates": [
       94.3231441048035, 365.0655021834061, 731.0043668122271, 333.6244541484716,
       767.6855895196506, 1020.9606986899564, 75.98253275109171,
@@ -1563,7 +1563,7 @@
   {
     "img_num": 157,
     "image_name": "IMG_157.png",
-    "image_path": "./optimized_images/IMG_157.png",
+    "image_path": "./content/images/IMG_157.png",
     "corner_coordinates": [
       171.17903930131004, 304.8034934497817, 816.5938864628821,
       303.93013100436684, 864.6288209606987, 962.4454148471616,
@@ -1573,7 +1573,7 @@
   {
     "img_num": 158,
     "image_name": "IMG_158.png",
-    "image_path": "./optimized_images/IMG_158.png",
+    "image_path": "./content/images/IMG_158.png",
     "corner_coordinates": [
       95.19650655021834, 315.28384279475983, 754.585152838428,
       292.5764192139738, 766.8122270742358, 961.5720524017468,
@@ -1583,7 +1583,7 @@
   {
     "img_num": 159,
     "image_name": "IMG_159.png",
-    "image_path": "./optimized_images/IMG_159.png",
+    "image_path": "./content/images/IMG_159.png",
     "corner_coordinates": [
       134.49781659388645, 313.53711790393015, 806.113537117904,
       337.11790393013104, 814.8471615720524, 1013.9737991266376,
@@ -1593,7 +1593,7 @@
   {
     "img_num": 160,
     "image_name": "IMG_160.png",
-    "image_path": "./optimized_images/IMG_160.png",
+    "image_path": "./content/images/IMG_160.png",
     "corner_coordinates": [
       160.6986899563319, 390.3930131004367, 811.353711790393, 355.4585152838428,
       824.4541484716158, 1081.222707423581, 131.87772925764193,
@@ -1603,7 +1603,7 @@
   {
     "img_num": 161,
     "image_name": "IMG_161.png",
-    "image_path": "./optimized_images/IMG_161.png",
+    "image_path": "./content/images/IMG_161.png",
     "corner_coordinates": [
       76.85589519650655, 240.17467248908298, 823.5807860262009,
       165.06550218340612, 852.4017467248908, 978.1659388646289,
@@ -1613,7 +1613,7 @@
   {
     "img_num": 162,
     "image_name": "IMG_162.png",
-    "image_path": "./optimized_images/IMG_162.png",
+    "image_path": "./content/images/IMG_162.png",
     "corner_coordinates": [
       96.94323144104804, 237.55458515283843, 823.5807860262009,
       230.56768558951967, 851.528384279476, 951.9650655021834,
@@ -1623,7 +1623,7 @@
   {
     "img_num": 163,
     "image_name": "IMG_163.png",
-    "image_path": "./optimized_images/IMG_163.png",
+    "image_path": "./content/images/IMG_163.png",
     "corner_coordinates": [
       71.61572052401748, 267.2489082969432, 805.2401746724892,
       203.4934497816594, 835.8078602620087, 993.8864628820961,
@@ -1633,7 +1633,7 @@
   {
     "img_num": 164,
     "image_name": "IMG_164.png",
-    "image_path": "./optimized_images/IMG_164.png",
+    "image_path": "./content/images/IMG_164.png",
     "corner_coordinates": [
       89.08296943231441, 299.5633187772926, 800.0, 303.93013100436684,
       797.3799126637555, 1041.0480349344978, 85.58951965065502,
@@ -1643,7 +1643,7 @@
   {
     "img_num": 165,
     "image_name": "IMG_165.png",
-    "image_path": "./optimized_images/IMG_165.png",
+    "image_path": "./content/images/IMG_165.png",
     "corner_coordinates": [
       90.82969432314411, 189.51965065502185, 825.3275109170306,
       217.46724890829697, 823.5807860262009, 939.7379912663756,
@@ -1653,7 +1653,7 @@
   {
     "img_num": 166,
     "image_name": "IMG_166.png",
-    "image_path": "./optimized_images/IMG_166.png",
+    "image_path": "./content/images/IMG_166.png",
     "corner_coordinates": [
       55.89519650655022, 289.0829694323144, 806.113537117904,
       263.75545851528386, 811.353711790393, 1044.5414847161574,
@@ -1663,7 +1663,7 @@
   {
     "img_num": 167,
     "image_name": "IMG_167.png",
-    "image_path": "./optimized_images/IMG_167.png",
+    "image_path": "./content/images/IMG_167.png",
     "corner_coordinates": [
       110.9170305676856, 331.0043668122271, 758.0786026200874,
       292.5764192139738, 782.5327510917031, 997.3799126637555,
@@ -1673,7 +1673,7 @@
   {
     "img_num": 168,
     "image_name": "IMG_168.png",
-    "image_path": "./optimized_images/IMG_168.png",
+    "image_path": "./content/images/IMG_168.png",
     "corner_coordinates": [
       79.47598253275109, 256.7685589519651, 830.5676855895197,
       290.8296943231441, 820.9606986899564, 1018.3406113537118,
@@ -1683,7 +1683,7 @@
   {
     "img_num": 169,
     "image_name": "IMG_169.png",
-    "image_path": "./optimized_images/IMG_169.png",
+    "image_path": "./content/images/IMG_169.png",
     "corner_coordinates": [
       126.63755458515284, 259.3886462882096, 819.2139737991266,
       280.34934497816596, 800.0, 948.471615720524, 119.65065502183407,
@@ -1693,7 +1693,7 @@
   {
     "img_num": 170,
     "image_name": "IMG_170.png",
-    "image_path": "./optimized_images/IMG_170.png",
+    "image_path": "./content/images/IMG_170.png",
     "corner_coordinates": [
       63.75545851528385, 313.53711790393015, 770.3056768558953,
       303.93013100436684, 766.8122270742358, 1048.0349344978167,
@@ -1703,7 +1703,7 @@
   {
     "img_num": 171,
     "image_name": "IMG_171.png",
-    "image_path": "./optimized_images/IMG_171.png",
+    "image_path": "./content/images/IMG_171.png",
     "corner_coordinates": [
       97.81659388646288, 267.2489082969432, 817.4672489082969,
       289.0829694323144, 816.5938864628821, 987.7729257641922, 94.3231441048035,
@@ -1713,7 +1713,7 @@
   {
     "img_num": 172,
     "image_name": "IMG_172.png",
-    "image_path": "./optimized_images/IMG_172.png",
+    "image_path": "./content/images/IMG_172.png",
     "corner_coordinates": [
       80.34934497816595, 213.97379912663757, 828.82096069869,
       217.46724890829697, 801.7467248908297, 999.1266375545852,
@@ -1723,7 +1723,7 @@
   {
     "img_num": 173,
     "image_name": "IMG_173.png",
-    "image_path": "./optimized_images/IMG_173.png",
+    "image_path": "./content/images/IMG_173.png",
     "corner_coordinates": [
       111.79039301310044, 255.0218340611354, 833.1877729257642,
       278.6026200873363, 818.3406113537118, 986.8995633187774,
@@ -1733,7 +1733,7 @@
   {
     "img_num": 174,
     "image_name": "IMG_174.png",
-    "image_path": "./optimized_images/IMG_174.png",
+    "image_path": "./content/images/IMG_174.png",
     "corner_coordinates": [
       49.78165938864629, 159.82532751091705, 875.9825327510918,
       181.65938864628822, 856.7685589519651, 992.1397379912664,
@@ -1743,7 +1743,7 @@
   {
     "img_num": 175,
     "image_name": "IMG_175.png",
-    "image_path": "./optimized_images/IMG_175.png",
+    "image_path": "./content/images/IMG_175.png",
     "corner_coordinates": [
       115.28384279475983, 211.35371179039302, 812.2270742358079,
       180.78602620087338, 826.2008733624455, 887.3362445414848,
@@ -1753,7 +1753,7 @@
   {
     "img_num": 176,
     "image_name": "IMG_176.png",
-    "image_path": "./optimized_images/IMG_176.png",
+    "image_path": "./content/images/IMG_176.png",
     "corner_coordinates": [
       118.77729257641921, 296.0698689956332, 800.8733624454148,
       313.53711790393015, 817.4672489082969, 994.759825327511,
@@ -1763,7 +1763,7 @@
   {
     "img_num": 177,
     "image_name": "IMG_177.png",
-    "image_path": "./optimized_images/IMG_177.png",
+    "image_path": "./content/images/IMG_177.png",
     "corner_coordinates": [
       61.1353711790393, 228.82096069868996, 821.8340611353713,
       189.51965065502185, 833.1877729257642, 994.759825327511,
@@ -1773,7 +1773,7 @@
   {
     "img_num": 178,
     "image_name": "IMG_178.png",
-    "image_path": "./optimized_images/IMG_178.png",
+    "image_path": "./content/images/IMG_178.png",
     "corner_coordinates": [
       118.77729257641921, 349.34497816593887, 741.4847161572053,
       379.0393013100437, 763.3187772925764, 1012.2270742358079,
@@ -1783,7 +1783,7 @@
   {
     "img_num": 179,
     "image_name": "IMG_179.png",
-    "image_path": "./optimized_images/IMG_179.png",
+    "image_path": "./content/images/IMG_179.png",
     "corner_coordinates": [
       123.14410480349345, 248.90829694323145, 814.8471615720524,
       259.3886462882096, 848.9082969432314, 953.7117903930132,
@@ -1793,7 +1793,7 @@
   {
     "img_num": 180,
     "image_name": "IMG_180.png",
-    "image_path": "./optimized_images/IMG_180.png",
+    "image_path": "./content/images/IMG_180.png",
     "corner_coordinates": [
       107.4235807860262, 277.72925764192144, 806.113537117904,
       226.20087336244544, 841.9213973799127, 967.6855895196506,
@@ -1803,7 +1803,7 @@
   {
     "img_num": 181,
     "image_name": "IMG_181.png",
-    "image_path": "./optimized_images/IMG_181.png",
+    "image_path": "./content/images/IMG_181.png",
     "corner_coordinates": [
       50.65502183406114, 213.97379912663757, 848.9082969432314,
       234.06113537117906, 860.2620087336245, 1019.2139737991267,
@@ -1813,7 +1813,7 @@
   {
     "img_num": 182,
     "image_name": "IMG_182.png",
-    "image_path": "./optimized_images/IMG_182.png",
+    "image_path": "./content/images/IMG_182.png",
     "corner_coordinates": [
       96.94323144104804, 227.94759825327512, 813.1004366812227,
       241.92139737991266, 835.8078602620087, 951.9650655021834,
@@ -1823,7 +1823,7 @@
   {
     "img_num": 183,
     "image_name": "IMG_183.png",
-    "image_path": "./optimized_images/IMG_183.png",
+    "image_path": "./content/images/IMG_183.png",
     "corner_coordinates": [
       79.47598253275109, 325.764192139738, 751.0917030567686, 269.8689956331878,
       778.1659388646289, 1025.3275109170306, 31.4410480349345,
@@ -1833,7 +1833,7 @@
   {
     "img_num": 184,
     "image_name": "IMG_184.png",
-    "image_path": "./optimized_images/IMG_184.png",
+    "image_path": "./content/images/IMG_184.png",
     "corner_coordinates": [
       106.55021834061135, 294.32314410480353, 827.0742358078603,
       311.79039301310047, 814.8471615720524, 1013.1004366812227,
@@ -1843,7 +1843,7 @@
   {
     "img_num": 185,
     "image_name": "IMG_185.png",
-    "image_path": "./optimized_images/IMG_185.png",
+    "image_path": "./content/images/IMG_185.png",
     "corner_coordinates": [
       78.60262008733625, 267.2489082969432, 799.1266375545852,
       297.8165938864629, 834.061135371179, 1028.82096069869, 68.12227074235808,
@@ -1853,7 +1853,7 @@
   {
     "img_num": 186,
     "image_name": "IMG_186.png",
-    "image_path": "./optimized_images/IMG_186.png",
+    "image_path": "./content/images/IMG_186.png",
     "corner_coordinates": [
       50.65502183406114, 264.6288209606987, 800.0, 232.31441048034935,
       787.7729257641922, 1030.5676855895197, 53.275109170305676,
@@ -1863,7 +1863,7 @@
   {
     "img_num": 187,
     "image_name": "IMG_187.png",
-    "image_path": "./optimized_images/IMG_187.png",
+    "image_path": "./content/images/IMG_187.png",
     "corner_coordinates": [
       115.28384279475983, 345.8515283842795, 802.6200873362445,
       363.31877729257644, 793.0131004366813, 1048.0349344978167,
@@ -1873,7 +1873,7 @@
   {
     "img_num": 188,
     "image_name": "IMG_188.png",
-    "image_path": "./optimized_images/IMG_188.png",
+    "image_path": "./content/images/IMG_188.png",
     "corner_coordinates": [
       66.37554585152839, 296.94323144104806, 824.4541484716158,
       309.1703056768559, 820.0873362445416, 1027.0742358078603,
@@ -1883,7 +1883,7 @@
   {
     "img_num": 189,
     "image_name": "IMG_189.png",
-    "image_path": "./optimized_images/IMG_189.png",
+    "image_path": "./content/images/IMG_189.png",
     "corner_coordinates": [
       96.06986899563319, 350.2183406113537, 739.7379912663756,
       307.4235807860262, 768.5589519650655, 1009.6069868995634,
@@ -1893,7 +1893,7 @@
   {
     "img_num": 190,
     "image_name": "IMG_190.png",
-    "image_path": "./optimized_images/IMG_190.png",
+    "image_path": "./content/images/IMG_190.png",
     "corner_coordinates": [
       107.4235807860262, 261.13537117903934, 837.5545851528385,
       291.70305676855895, 821.8340611353713, 1006.113537117904,
@@ -1903,7 +1903,7 @@
   {
     "img_num": 191,
     "image_name": "IMG_191.png",
-    "image_path": "./optimized_images/IMG_191.png",
+    "image_path": "./content/images/IMG_191.png",
     "corner_coordinates": [
       86.46288209606988, 268.9956331877729, 841.0480349344979,
       290.8296943231441, 842.7947598253276, 1013.1004366812227,
@@ -1913,7 +1913,7 @@
   {
     "img_num": 192,
     "image_name": "IMG_192.png",
-    "image_path": "./optimized_images/IMG_192.png",
+    "image_path": "./content/images/IMG_192.png",
     "corner_coordinates": [
       88.20960698689957, 272.48908296943233, 787.7729257641922,
       267.2489082969432, 794.759825327511, 968.5589519650655, 83.84279475982532,
@@ -1923,7 +1923,7 @@
   {
     "img_num": 193,
     "image_name": "IMG_193.png",
-    "image_path": "./optimized_images/IMG_193.png",
+    "image_path": "./content/images/IMG_193.png",
     "corner_coordinates": [
       55.02183406113537, 203.4934497816594, 827.0742358078603,
       172.92576419213975, 838.4279475982534, 946.7248908296943,
@@ -1933,7 +1933,7 @@
   {
     "img_num": 194,
     "image_name": "IMG_194.png",
-    "image_path": "./optimized_images/IMG_194.png",
+    "image_path": "./content/images/IMG_194.png",
     "corner_coordinates": [
       125.764192139738, 443.6681222707424, 745.8515283842795, 410.4803493449782,
       792.1397379912664, 1074.235807860262, 144.97816593886463,
@@ -1943,7 +1943,7 @@
   {
     "img_num": 195,
     "image_name": "IMG_195.png",
-    "image_path": "./optimized_images/IMG_195.png",
+    "image_path": "./content/images/IMG_195.png",
     "corner_coordinates": [
       109.1703056768559, 327.5109170305677, 804.3668122270743,
       318.7772925764192, 834.061135371179, 1015.7205240174673,
@@ -1953,7 +1953,7 @@
   {
     "img_num": 196,
     "image_name": "IMG_196.png",
-    "image_path": "./optimized_images/IMG_196.png",
+    "image_path": "./content/images/IMG_196.png",
     "corner_coordinates": [
       129.25764192139738, 403.4934497816594, 764.1921397379913,
       390.3930131004367, 785.1528384279476, 1060.2620087336245,
@@ -1963,7 +1963,7 @@
   {
     "img_num": 197,
     "image_name": "IMG_197.png",
-    "image_path": "./optimized_images/IMG_197.png",
+    "image_path": "./content/images/IMG_197.png",
     "corner_coordinates": [
       65.50218340611355, 332.7510917030568, 748.471615720524, 279.4759825327511,
       766.8122270742358, 1074.235807860262, 46.288209606986904,
@@ -1973,7 +1973,7 @@
   {
     "img_num": 198,
     "image_name": "IMG_198.png",
-    "image_path": "./optimized_images/IMG_198.png",
+    "image_path": "./content/images/IMG_198.png",
     "corner_coordinates": [
       138.86462882096072, 382.53275109170306, 780.7860262008734,
       352.8384279475983, 793.8864628820961, 1091.703056768559,
@@ -1983,7 +1983,7 @@
   {
     "img_num": 199,
     "image_name": "IMG_199.png",
-    "image_path": "./optimized_images/IMG_199.png",
+    "image_path": "./content/images/IMG_199.png",
     "corner_coordinates": [
       126.63755458515284, 415.72052401746726, 723.1441048034935,
       417.46724890829694, 730.1310043668122, 1000.0, 126.63755458515284,
@@ -1993,7 +1993,7 @@
   {
     "img_num": 200,
     "image_name": "IMG_200.png",
-    "image_path": "./optimized_images/IMG_200.png",
+    "image_path": "./content/images/IMG_200.png",
     "corner_coordinates": [
       111.79039301310044, 264.6288209606987, 803.4934497816595,
       282.9694323144105, 794.759825327511, 987.7729257641922, 86.46288209606988,
@@ -2003,7 +2003,7 @@
   {
     "img_num": 201,
     "image_name": "IMG_201.png",
-    "image_path": "./optimized_images/IMG_201.png",
+    "image_path": "./content/images/IMG_201.png",
     "corner_coordinates": [
       79.47598253275109, 272.48908296943233, 816.5938864628821,
       302.1834061135371, 793.8864628820961, 991.2663755458516,
@@ -2013,7 +2013,7 @@
   {
     "img_num": 202,
     "image_name": "IMG_202.png",
-    "image_path": "./optimized_images/IMG_202.png",
+    "image_path": "./content/images/IMG_202.png",
     "corner_coordinates": [
       110.9170305676856, 270.74235807860265, 841.9213973799127,
       261.13537117903934, 837.5545851528385, 979.9126637554585,
@@ -2023,7 +2023,7 @@
   {
     "img_num": 203,
     "image_name": "IMG_203.png",
-    "image_path": "./optimized_images/IMG_203.png",
+    "image_path": "./content/images/IMG_203.png",
     "corner_coordinates": [
       109.1703056768559, 184.27947598253277, 809.6069868995634,
       218.3406113537118, 779.9126637554585, 880.349344978166, 96.06986899563319,
@@ -2033,7 +2033,7 @@
   {
     "img_num": 204,
     "image_name": "IMG_204.png",
-    "image_path": "./optimized_images/IMG_204.png",
+    "image_path": "./content/images/IMG_204.png",
     "corner_coordinates": [
       134.49781659388645, 303.056768558952, 732.7510917030568,
       297.8165938864629, 745.8515283842795, 894.3231441048035,
@@ -2043,7 +2043,7 @@
   {
     "img_num": 205,
     "image_name": "IMG_205.png",
-    "image_path": "./optimized_images/IMG_205.png",
+    "image_path": "./content/images/IMG_205.png",
     "corner_coordinates": [
       123.14410480349345, 349.34497816593887, 723.1441048034935,
       285.589519650655, 755.4585152838429, 1006.9868995633188,
@@ -2053,7 +2053,7 @@
   {
     "img_num": 206,
     "image_name": "IMG_206.png",
-    "image_path": "./optimized_images/IMG_206.png",
+    "image_path": "./content/images/IMG_206.png",
     "corner_coordinates": [
       75.10917030567686, 294.32314410480353, 743.231441048035,
       239.30131004366814, 793.8864628820961, 999.1266375545852,
@@ -2063,7 +2063,7 @@
   {
     "img_num": 207,
     "image_name": "IMG_207.png",
-    "image_path": "./optimized_images/IMG_207.png",
+    "image_path": "./content/images/IMG_207.png",
     "corner_coordinates": [
       162.44541484716157, 335.3711790393013, 784.2794759825327,
       313.53711790393015, 791.2663755458516, 962.4454148471616,
@@ -2073,7 +2073,7 @@
   {
     "img_num": 208,
     "image_name": "IMG_208.png",
-    "image_path": "./optimized_images/IMG_208.png",
+    "image_path": "./content/images/IMG_208.png",
     "corner_coordinates": [
       133.6244541484716, 294.32314410480353, 768.5589519650655,
       282.09606986899564, 788.6462882096071, 912.6637554585153,
@@ -2083,7 +2083,7 @@
   {
     "img_num": 209,
     "image_name": "IMG_209.png",
-    "image_path": "./optimized_images/IMG_209.png",
+    "image_path": "./content/images/IMG_209.png",
     "corner_coordinates": [
       107.4235807860262, 353.71179039301313, 761.5720524017468,
       309.1703056768559, 788.6462882096071, 1011.353711790393,
@@ -2093,7 +2093,7 @@
   {
     "img_num": 210,
     "image_name": "IMG_210.png",
-    "image_path": "./optimized_images/IMG_210.png",
+    "image_path": "./content/images/IMG_210.png",
     "corner_coordinates": [
       89.08296943231441, 319.6506550218341, 806.113537117904, 329.2576419213974,
       790.3930131004367, 1020.9606986899564, 83.84279475982532,
@@ -2103,7 +2103,7 @@
   {
     "img_num": 211,
     "image_name": "IMG_211.png",
-    "image_path": "./optimized_images/IMG_211.png",
+    "image_path": "./content/images/IMG_211.png",
     "corner_coordinates": [
       89.95633187772926, 278.6026200873363, 791.2663755458516,
       298.68995633187774, 834.061135371179, 997.3799126637555,
@@ -2113,7 +2113,7 @@
   {
     "img_num": 212,
     "image_name": "IMG_212.png",
-    "image_path": "./optimized_images/IMG_212.png",
+    "image_path": "./content/images/IMG_212.png",
     "corner_coordinates": [
       87.33624454148472, 264.6288209606987, 819.2139737991266,
       212.22707423580786, 844.5414847161572, 1003.4934497816595,
@@ -2123,7 +2123,7 @@
   {
     "img_num": 213,
     "image_name": "IMG_213.png",
-    "image_path": "./optimized_images/IMG_213.png",
+    "image_path": "./content/images/IMG_213.png",
     "corner_coordinates": [
       92.57641921397381, 309.1703056768559, 808.7336244541485,
       275.9825327510917, 816.5938864628821, 1012.2270742358079,
@@ -2133,7 +2133,7 @@
   {
     "img_num": 214,
     "image_name": "IMG_214.png",
-    "image_path": "./optimized_images/IMG_214.png",
+    "image_path": "./content/images/IMG_214.png",
     "corner_coordinates": [
       66.37554585152839, 263.75545851528386, 795.6331877729258,
       226.20087336244544, 817.4672489082969, 971.1790393013101,
@@ -2143,7 +2143,7 @@
   {
     "img_num": 215,
     "image_name": "IMG_215.png",
-    "image_path": "./optimized_images/IMG_215.png",
+    "image_path": "./content/images/IMG_215.png",
     "corner_coordinates": [
       85.58951965065502, 198.25327510917032, 835.8078602620087,
       209.60698689956334, 846.2882096069869, 951.0917030567686,
@@ -2153,7 +2153,7 @@
   {
     "img_num": 216,
     "image_name": "IMG_216.png",
-    "image_path": "./optimized_images/IMG_216.png",
+    "image_path": "./content/images/IMG_216.png",
     "corner_coordinates": [
       165.93886462882097, 461.13537117903934, 732.7510917030568,
       454.14847161572055, 758.0786026200874, 1050.6550218340612,
@@ -2163,7 +2163,7 @@
   {
     "img_num": 217,
     "image_name": "IMG_217.png",
-    "image_path": "./optimized_images/IMG_217.png",
+    "image_path": "./content/images/IMG_217.png",
     "corner_coordinates": [
       113.53711790393014, 327.5109170305677, 800.8733624454148,
       302.1834061135371, 833.1877729257642, 1023.5807860262009,
@@ -2173,7 +2173,7 @@
   {
     "img_num": 218,
     "image_name": "IMG_218.png",
-    "image_path": "./optimized_images/IMG_218.png",
+    "image_path": "./content/images/IMG_218.png",
     "corner_coordinates": [
       161.57205240174673, 365.0655021834061, 833.1877729257642,
       368.55895196506555, 831.4410480349345, 1111.7903930131006,
@@ -2183,7 +2183,7 @@
   {
     "img_num": 219,
     "image_name": "IMG_219.png",
-    "image_path": "./optimized_images/IMG_219.png",
+    "image_path": "./content/images/IMG_219.png",
     "corner_coordinates": [
       113.53711790393014, 300.4366812227074, 780.7860262008734,
       287.33624454148475, 797.3799126637555, 997.3799126637555,
@@ -2193,7 +2193,7 @@
   {
     "img_num": 220,
     "image_name": "IMG_220.png",
-    "image_path": "./optimized_images/IMG_220.png",
+    "image_path": "./content/images/IMG_220.png",
     "corner_coordinates": [
       133.6244541484716, 334.49781659388645, 760.6986899563319,
       314.410480349345, 787.7729257641922, 944.1048034934498, 137.117903930131,
@@ -2203,7 +2203,7 @@
   {
     "img_num": 221,
     "image_name": "IMG_221.png",
-    "image_path": "./optimized_images/IMG_221.png",
+    "image_path": "./content/images/IMG_221.png",
     "corner_coordinates": [
       106.55021834061135, 195.63318777292577, 811.353711790393,
       213.1004366812227, 834.061135371179, 910.9170305676856,
@@ -2213,7 +2213,7 @@
   {
     "img_num": 222,
     "image_name": "IMG_222.png",
-    "image_path": "./optimized_images/IMG_222.png",
+    "image_path": "./content/images/IMG_222.png",
     "corner_coordinates": [
       110.9170305676856, 207.86026200873363, 824.4541484716158,
       184.27947598253277, 820.0873362445416, 889.9563318777293,
@@ -2223,7 +2223,7 @@
   {
     "img_num": 223,
     "image_name": "IMG_223.png",
-    "image_path": "./optimized_images/IMG_223.png",
+    "image_path": "./content/images/IMG_223.png",
     "corner_coordinates": [
       61.1353711790393, 249.7816593886463, 821.8340611353713, 267.2489082969432,
       801.7467248908297, 981.6593886462882, 64.62882096069869,
@@ -2233,7 +2233,7 @@
   {
     "img_num": 224,
     "image_name": "IMG_224.png",
-    "image_path": "./optimized_images/IMG_224.png",
+    "image_path": "./content/images/IMG_224.png",
     "corner_coordinates": [
       99.56331877729258, 217.46724890829697, 825.3275109170306,
       232.31441048034935, 827.9475982532751, 951.9650655021834,
@@ -2243,7 +2243,7 @@
   {
     "img_num": 225,
     "image_name": "IMG_225.png",
-    "image_path": "./optimized_images/IMG_225.png",
+    "image_path": "./content/images/IMG_225.png",
     "corner_coordinates": [
       166.8122270742358, 403.4934497816594, 746.7248908296943,
       397.3799126637555, 769.4323144104803, 976.4192139737992,
@@ -2253,7 +2253,7 @@
   {
     "img_num": 226,
     "image_name": "IMG_226.png",
-    "image_path": "./optimized_images/IMG_226.png",
+    "image_path": "./content/images/IMG_226.png",
     "corner_coordinates": [
       87.33624454148472, 372.0524017467249, 762.4454148471616,
       364.1921397379913, 780.7860262008734, 1102.183406113537,
@@ -2263,7 +2263,7 @@
   {
     "img_num": 227,
     "image_name": "IMG_227.png",
-    "image_path": "./optimized_images/IMG_227.png",
+    "image_path": "./content/images/IMG_227.png",
     "corner_coordinates": [
       150.2183406113537, 333.6244541484716, 753.7117903930132,
       313.53711790393015, 765.0655021834061, 959.8253275109171,
@@ -2273,7 +2273,7 @@
   {
     "img_num": 228,
     "image_name": "IMG_228.png",
-    "image_path": "./optimized_images/IMG_228.png",
+    "image_path": "./content/images/IMG_228.png",
     "corner_coordinates": [
       124.89082969432314, 372.0524017467249, 751.0917030567686,
       344.1048034934498, 780.7860262008734, 1049.7816593886464,
@@ -2283,7 +2283,7 @@
   {
     "img_num": 229,
     "image_name": "IMG_229.png",
-    "image_path": "./optimized_images/IMG_229.png",
+    "image_path": "./content/images/IMG_229.png",
     "corner_coordinates": [
       127.5109170305677, 273.3624454148472, 778.1659388646289,
       275.9825327510917, 793.0131004366813, 934.4978165938865,
@@ -2293,7 +2293,7 @@
   {
     "img_num": 230,
     "image_name": "IMG_230.png",
-    "image_path": "./optimized_images/IMG_230.png",
+    "image_path": "./content/images/IMG_230.png",
     "corner_coordinates": [
       88.20960698689957, 264.6288209606987, 779.0393013100437,
       249.7816593886463, 788.6462882096071, 979.9126637554585,
@@ -2303,7 +2303,7 @@
   {
     "img_num": 231,
     "image_name": "IMG_231.png",
-    "image_path": "./optimized_images/IMG_231.png",
+    "image_path": "./content/images/IMG_231.png",
     "corner_coordinates": [
       102.18340611353712, 300.4366812227074, 785.1528384279476,
       324.0174672489083, 772.9257641921398, 964.1921397379913,
@@ -2313,7 +2313,7 @@
   {
     "img_num": 232,
     "image_name": "IMG_232.png",
-    "image_path": "./optimized_images/IMG_232.png",
+    "image_path": "./content/images/IMG_232.png",
     "corner_coordinates": [
       94.3231441048035, 282.9694323144105, 823.5807860262009,
       310.04366812227073, 808.7336244541485, 1008.7336244541485,
@@ -2323,7 +2323,7 @@
   {
     "img_num": 233,
     "image_name": "IMG_233.png",
-    "image_path": "./optimized_images/IMG_233.png",
+    "image_path": "./content/images/IMG_233.png",
     "corner_coordinates": [
       103.05676855895197, 261.13537117903934, 817.4672489082969,
       289.95633187772927, 804.3668122270743, 960.6986899563319,
@@ -2333,7 +2333,7 @@
   {
     "img_num": 234,
     "image_name": "IMG_234.png",
-    "image_path": "./optimized_images/IMG_234.png",
+    "image_path": "./content/images/IMG_234.png",
     "corner_coordinates": [
       94.3231441048035, 241.04803493449782, 835.8078602620087,
       216.5938864628821, 841.0480349344979, 1004.3668122270743,
@@ -2343,7 +2343,7 @@
   {
     "img_num": 235,
     "image_name": "IMG_235.png",
-    "image_path": "./optimized_images/IMG_235.png",
+    "image_path": "./content/images/IMG_235.png",
     "corner_coordinates": [
       129.25764192139738, 273.3624454148472, 751.0917030567686,
       304.8034934497817, 781.6593886462882, 937.1179039301311,
@@ -2353,7 +2353,7 @@
   {
     "img_num": 236,
     "image_name": "IMG_236.png",
-    "image_path": "./optimized_images/IMG_236.png",
+    "image_path": "./content/images/IMG_236.png",
     "corner_coordinates": [
       126.63755458515284, 377.292576419214, 760.6986899563319,
       374.67248908296943, 790.3930131004367, 1019.2139737991267,
@@ -2363,7 +2363,7 @@
   {
     "img_num": 237,
     "image_name": "IMG_237.png",
-    "image_path": "./optimized_images/IMG_237.png",
+    "image_path": "./content/images/IMG_237.png",
     "corner_coordinates": [
       152.83842794759826, 344.1048034934498, 807.8602620087337,
       322.2707423580786, 828.82096069869, 1044.5414847161574,
@@ -2373,7 +2373,7 @@
   {
     "img_num": 238,
     "image_name": "IMG_238.png",
-    "image_path": "./optimized_images/IMG_238.png",
+    "image_path": "./content/images/IMG_238.png",
     "corner_coordinates": [
       113.53711790393014, 400.0, 717.0305676855895, 410.4803493449782,
       725.764192139738, 1012.2270742358079, 90.82969432314411,
@@ -2383,7 +2383,7 @@
   {
     "img_num": 239,
     "image_name": "IMG_239.png",
-    "image_path": "./optimized_images/IMG_239.png",
+    "image_path": "./content/images/IMG_239.png",
     "corner_coordinates": [
       167.68558951965065, 386.8995633187773, 768.5589519650655,
       377.292576419214, 798.2532751091703, 1038.4279475982532,
@@ -2393,7 +2393,7 @@
   {
     "img_num": 240,
     "image_name": "IMG_240.png",
-    "image_path": "./optimized_images/IMG_240.png",
+    "image_path": "./content/images/IMG_240.png",
     "corner_coordinates": [
       96.94323144104804, 405.2401746724891, 768.5589519650655,
       397.3799126637555, 771.1790393013101, 1056.7685589519651,
@@ -2403,7 +2403,7 @@
   {
     "img_num": 241,
     "image_name": "IMG_241.png",
-    "image_path": "./optimized_images/IMG_241.png",
+    "image_path": "./content/images/IMG_241.png",
     "corner_coordinates": [
       104.80349344978167, 203.4934497816594, 848.0349344978166,
       205.2401746724891, 847.1615720524018, 952.8384279475983,
@@ -2413,7 +2413,7 @@
   {
     "img_num": 242,
     "image_name": "IMG_242.png",
-    "image_path": "./optimized_images/IMG_242.png",
+    "image_path": "./content/images/IMG_242.png",
     "corner_coordinates": [
       153.7117903930131, 337.11790393013104, 788.6462882096071,
       366.8122270742358, 772.9257641921398, 973.7991266375547,
@@ -2423,7 +2423,7 @@
   {
     "img_num": 243,
     "image_name": "IMG_243.png",
-    "image_path": "./optimized_images/IMG_243.png",
+    "image_path": "./content/images/IMG_243.png",
     "corner_coordinates": [
       94.3231441048035, 195.63318777292577, 794.759825327511,
       165.93886462882097, 814.8471615720524, 856.7685589519651,
@@ -2433,7 +2433,7 @@
   {
     "img_num": 244,
     "image_name": "IMG_244.png",
-    "image_path": "./optimized_images/IMG_244.png",
+    "image_path": "./content/images/IMG_244.png",
     "corner_coordinates": [
       109.1703056768559, 200.0, 828.82096069869, 218.3406113537118,
       835.8078602620087, 937.9912663755459, 95.19650655021834, 956.3318777292577
@@ -2442,7 +2442,7 @@
   {
     "img_num": 245,
     "image_name": "IMG_245.png",
-    "image_path": "./optimized_images/IMG_245.png",
+    "image_path": "./content/images/IMG_245.png",
     "corner_coordinates": [
       82.96943231441048, 227.94759825327512, 785.1528384279476,
       224.45414847161572, 807.8602620087337, 936.2445414847163,
@@ -2452,7 +2452,7 @@
   {
     "img_num": 246,
     "image_name": "IMG_246.png",
-    "image_path": "./optimized_images/IMG_246.png",
+    "image_path": "./content/images/IMG_246.png",
     "corner_coordinates": [
       117.03056768558953, 353.71179039301313, 716.1572052401747,
       316.1572052401747, 755.4585152838429, 965.0655021834061,
@@ -2462,7 +2462,7 @@
   {
     "img_num": 247,
     "image_name": "IMG_247.png",
-    "image_path": "./optimized_images/IMG_247.png",
+    "image_path": "./content/images/IMG_247.png",
     "corner_coordinates": [
       139.73799126637556, 433.1877729257642, 717.9039301310044,
       441.92139737991266, 733.6244541484716, 1034.9344978165939,
@@ -2472,7 +2472,7 @@
   {
     "img_num": 248,
     "image_name": "IMG_248.png",
-    "image_path": "./optimized_images/IMG_248.png",
+    "image_path": "./content/images/IMG_248.png",
     "corner_coordinates": [
       119.65065502183407, 323.14410480349346, 765.0655021834061,
       294.32314410480353, 803.4934497816595, 986.0262008733625,
@@ -2482,7 +2482,7 @@
   {
     "img_num": 249,
     "image_name": "IMG_249.png",
-    "image_path": "./optimized_images/IMG_249.png",
+    "image_path": "./content/images/IMG_249.png",
     "corner_coordinates": [
       108.29694323144105, 239.30131004366814, 768.5589519650655,
       228.82096069868996, 785.1528384279476, 886.46288209607, 110.9170305676856,
@@ -2492,7 +2492,7 @@
   {
     "img_num": 250,
     "image_name": "IMG_250.png",
-    "image_path": "./optimized_images/IMG_250.png",
+    "image_path": "./content/images/IMG_250.png",
     "corner_coordinates": [
       92.57641921397381, 259.3886462882096, 813.1004366812227,
       276.85589519650654, 800.0, 958.0786026200874, 90.82969432314411,
@@ -2502,7 +2502,7 @@
   {
     "img_num": 251,
     "image_name": "IMG_251.png",
-    "image_path": "./optimized_images/IMG_251.png",
+    "image_path": "./content/images/IMG_251.png",
     "corner_coordinates": [
       109.1703056768559, 212.22707423580786, 864.6288209606987,
       234.06113537117906, 882.0960698689956, 979.0393013100437,
@@ -2512,7 +2512,7 @@
   {
     "img_num": 252,
     "image_name": "IMG_252.png",
-    "image_path": "./optimized_images/IMG_252.png",
+    "image_path": "./content/images/IMG_252.png",
     "corner_coordinates": [
       95.19650655021834, 268.9956331877729, 805.2401746724892,
       241.92139737991266, 825.3275109170306, 986.0262008733625,
@@ -2522,7 +2522,7 @@
   {
     "img_num": 253,
     "image_name": "IMG_253.png",
-    "image_path": "./optimized_images/IMG_253.png",
+    "image_path": "./content/images/IMG_253.png",
     "corner_coordinates": [
       90.82969432314411, 291.70305676855895, 826.2008733624455,
       250.65502183406116, 855.0218340611355, 985.1528384279476,
@@ -2532,7 +2532,7 @@
   {
     "img_num": 254,
     "image_name": "IMG_254.png",
-    "image_path": "./optimized_images/IMG_254.png",
+    "image_path": "./content/images/IMG_254.png",
     "corner_coordinates": [
       89.08296943231441, 195.63318777292577, 840.174672489083,
       195.63318777292577, 886.46288209607, 955.4585152838429, 89.08296943231441,
@@ -2542,7 +2542,7 @@
   {
     "img_num": 255,
     "image_name": "IMG_255.png",
-    "image_path": "./optimized_images/IMG_255.png",
+    "image_path": "./content/images/IMG_255.png",
     "corner_coordinates": [
       96.06986899563319, 229.6943231441048, 831.4410480349345,
       230.56768558951967, 834.061135371179, 998.2532751091703,
@@ -2552,7 +2552,7 @@
   {
     "img_num": 256,
     "image_name": "IMG_256.png",
-    "image_path": "./optimized_images/IMG_256.png",
+    "image_path": "./content/images/IMG_256.png",
     "corner_coordinates": [
       125.764192139738, 361.57205240174676, 758.0786026200874,
       335.3711790393013, 778.1659388646289, 969.4323144104804,
@@ -2562,7 +2562,7 @@
   {
     "img_num": 257,
     "image_name": "IMG_257.png",
-    "image_path": "./optimized_images/IMG_257.png",
+    "image_path": "./content/images/IMG_257.png",
     "corner_coordinates": [
       217.46724890829697, 420.96069868995636, 765.938864628821,
       398.2532751091703, 795.6331877729258, 1006.113537117904,
@@ -2572,7 +2572,7 @@
   {
     "img_num": 258,
     "image_name": "IMG_258.png",
-    "image_path": "./optimized_images/IMG_258.png",
+    "image_path": "./content/images/IMG_258.png",
     "corner_coordinates": [
       200.87336244541487, 379.91266375545854, 742.3580786026201,
       377.292576419214, 754.585152838428, 924.8908296943232, 191.26637554585153,
@@ -2582,7 +2582,7 @@
   {
     "img_num": 259,
     "image_name": "IMG_259.png",
-    "image_path": "./optimized_images/IMG_259.png",
+    "image_path": "./content/images/IMG_259.png",
     "corner_coordinates": [
       125.764192139738, 322.2707423580786, 774.6724890829695,
       284.71615720524017, 804.3668122270743, 988.6462882096071,
@@ -2592,7 +2592,7 @@
   {
     "img_num": 260,
     "image_name": "IMG_260.png",
-    "image_path": "./optimized_images/IMG_260.png",
+    "image_path": "./content/images/IMG_260.png",
     "corner_coordinates": [
       116.15720524017468, 402.6200873362446, 708.2969432314411,
       393.8864628820961, 732.7510917030568, 993.8864628820961,
@@ -2602,7 +2602,7 @@
   {
     "img_num": 261,
     "image_name": "IMG_261.png",
-    "image_path": "./optimized_images/IMG_261.png",
+    "image_path": "./content/images/IMG_261.png",
     "corner_coordinates": [
       63.75545851528385, 296.94323144104806, 785.1528384279476,
       298.68995633187774, 766.8122270742358, 990.3930131004367,
@@ -2612,7 +2612,7 @@
   {
     "img_num": 262,
     "image_name": "IMG_262.png",
-    "image_path": "./optimized_images/IMG_262.png",
+    "image_path": "./content/images/IMG_262.png",
     "corner_coordinates": [
       147.5982532751092, 227.07423580786028, 763.3187772925764,
       253.27510917030568, 784.2794759825327, 867.2489082969432,
@@ -2622,7 +2622,7 @@
   {
     "img_num": 263,
     "image_name": "IMG_263.png",
-    "image_path": "./optimized_images/IMG_263.png",
+    "image_path": "./content/images/IMG_263.png",
     "corner_coordinates": [
       90.82969432314411, 137.99126637554585, 834.061135371179,
       131.0043668122271, 823.5807860262009, 871.6157205240175,
@@ -2632,7 +2632,7 @@
   {
     "img_num": 264,
     "image_name": "IMG_264.png",
-    "image_path": "./optimized_images/IMG_264.png",
+    "image_path": "./content/images/IMG_264.png",
     "corner_coordinates": [
       135.37117903930132, 287.33624454148475, 817.4672489082969,
       310.91703056768563, 800.0, 976.4192139737992, 132.75109170305677,
@@ -2642,7 +2642,7 @@
   {
     "img_num": 265,
     "image_name": "IMG_265.png",
-    "image_path": "./optimized_images/IMG_265.png",
+    "image_path": "./content/images/IMG_265.png",
     "corner_coordinates": [
       127.5109170305677, 229.6943231441048, 824.4541484716158,
       239.30131004366814, 827.0742358078603, 945.8515283842795,
@@ -2652,7 +2652,7 @@
   {
     "img_num": 266,
     "image_name": "IMG_266.png",
-    "image_path": "./optimized_images/IMG_266.png",
+    "image_path": "./content/images/IMG_266.png",
     "corner_coordinates": [
       120.52401746724891, 344.97816593886466, 785.1528384279476,
       348.471615720524, 789.5196506550219, 999.1266375545852,
@@ -2662,7 +2662,7 @@
   {
     "img_num": 267,
     "image_name": "IMG_267.png",
-    "image_path": "./optimized_images/IMG_267.png",
+    "image_path": "./content/images/IMG_267.png",
     "corner_coordinates": [
       99.56331877729258, 371.17903930131007, 744.1048034934498,
       373.7991266375546, 755.4585152838429, 1011.353711790393,
@@ -2672,7 +2672,7 @@
   {
     "img_num": 268,
     "image_name": "IMG_268.png",
-    "image_path": "./optimized_images/IMG_268.png",
+    "image_path": "./content/images/IMG_268.png",
     "corner_coordinates": [
       127.5109170305677, 358.07860262008734, 785.1528384279476,
       344.1048034934498, 810.4803493449782, 1064.6288209606987,
@@ -2682,7 +2682,7 @@
   {
     "img_num": 269,
     "image_name": "IMG_269.png",
-    "image_path": "./optimized_images/IMG_269.png",
+    "image_path": "./content/images/IMG_269.png",
     "corner_coordinates": [
       168.55895196506552, 302.1834061135371, 763.3187772925764,
       299.5633187772926, 775.5458515283843, 892.5764192139738,
@@ -2692,7 +2692,7 @@
   {
     "img_num": 270,
     "image_name": "IMG_270.png",
-    "image_path": "./optimized_images/IMG_270.png",
+    "image_path": "./content/images/IMG_270.png",
     "corner_coordinates": [
       171.17903930131004, 412.2270742358079, 729.2576419213974,
       395.6331877729258, 748.471615720524, 994.759825327511, 167.68558951965065,
@@ -2702,7 +2702,7 @@
   {
     "img_num": 271,
     "image_name": "IMG_271.png",
-    "image_path": "./optimized_images/IMG_271.png",
+    "image_path": "./content/images/IMG_271.png",
     "corner_coordinates": [
       107.4235807860262, 311.79039301310047, 795.6331877729258,
       297.8165938864629, 828.82096069869, 990.3930131004367, 117.03056768558953,
@@ -2712,7 +2712,7 @@
   {
     "img_num": 272,
     "image_name": "IMG_272.png",
-    "image_path": "./optimized_images/IMG_272.png",
+    "image_path": "./content/images/IMG_272.png",
     "corner_coordinates": [
       75.10917030567686, 209.60698689956334, 853.2751091703058,
       203.4934497816594, 888.2096069868996, 977.292576419214, 82.09606986899564,
@@ -2722,7 +2722,7 @@
   {
     "img_num": 273,
     "image_name": "IMG_273.png",
-    "image_path": "./optimized_images/IMG_273.png",
+    "image_path": "./content/images/IMG_273.png",
     "corner_coordinates": [
       60.262008733624455, 200.87336244541487, 820.0873362445416,
       168.55895196506552, 832.3144104803494, 972.9257641921398,
@@ -2732,7 +2732,7 @@
   {
     "img_num": 274,
     "image_name": "IMG_274.png",
-    "image_path": "./optimized_images/IMG_274.png",
+    "image_path": "./content/images/IMG_274.png",
     "corner_coordinates": [
       76.85589519650655, 254.14847161572052, 840.174672489083,
       284.71615720524017, 815.7205240174673, 1002.6200873362446,
